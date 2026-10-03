@@ -2,5 +2,3 @@
 __pycache__/
 *.pyc
 .env
-data/golden_candidates.json
-data/golden_rejected.json

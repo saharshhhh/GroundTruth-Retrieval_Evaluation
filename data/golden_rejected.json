@@ -1,0 +1,651 @@
+[
+  {
+    "query": "What interest rate applies if a payment under the agreement is late, and does that rate increase after a certain threshold of delinquency?",
+    "gold": {
+      "doc_id": "file13",
+      "start": 78000,
+      "end": 79500
+    },
+    "category": "payment",
+    "source_passage_preview": " cost of such audit unless such audit discloses an underpayment of more than [***] percent ([***]%) of the payments due under this Agreement, in which",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "How does the agreement define \u201cImprovement\u201d with respect to patents, inventions, or other IP created under Ono\u2019s authority?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 21000,
+      "end": 22500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " locality or other political subdivision thereof.\n\n1.27 \"Improvement\" means any Patent, invention or other intellectual property made or used by or un",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "After the agreement ends, which party is responsible for paying the reasonable expenses associated with storing the prefilled syringes and how must they cooperate regarding any required UCC filings?",
+    "gold": {
+      "doc_id": "file24",
+      "start": 27000,
+      "end": 28500
+    },
+    "category": "liability",
+    "source_passage_preview": "o disposition by AMAG upon expiration or termination of this Agreement, and in either such event, Antares or its Subcontractor shall deliver the Prefi",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What is the required minimum invoicing amount during the first six months after delivery of the first article, and which party is responsible for any shortfall?",
+    "gold": {
+      "doc_id": "file25",
+      "start": 43500,
+      "end": 45000
+    },
+    "category": "payment",
+    "source_passage_preview": "ge. \u2022 Quality control and certificates included as detailed in Exhibit B \u2022 Product sold [***] \u2022 Item 3, Tooling includes ONLY: \u25e6 For BIB Balloon, each",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Which party\u2019s written approval",
+    "gold": {
+      "doc_id": "file2",
+      "start": 18000,
+      "end": 19500
+    },
+    "category": "liability",
+    "source_passage_preview": "nified Party\") against any and all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, f",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "How does the agreement define a Trainer?",
+    "gold": {
+      "doc_id": "file24",
+      "start": 18000,
+      "end": 19500
+    },
+    "category": "confidentiality",
+    "source_passage_preview": " Section 3.6(a);\n\n\"Second Source Supplier\" has the meaning specified in Section 3.9;\n\n\"[***]\" has the meaning specified in Section 2.1(b);\n\n\"Specifica",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What financial ceiling applies to the Distributor's liability for physical damage to Airspan's property, and does the agreement preserve Airspan's liability for death or personal injury caused by its own negligence?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 52500,
+      "end": 54000
+    },
+    "category": "liability",
+    "source_passage_preview": "um aggregate amount of one million US Dollars (US$1,000,000).  And Distributor, taken as a whole, shall be liable for physical damage to Airspan's pro",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "Under what circumstances is Antares required to issue a credit to AMAG for previously paid amounts related to reduced safety stock used in the manufacture of finished or sample products?",
+    "gold": {
+      "doc_id": "file24",
+      "start": 45000,
+      "end": 46500
+    },
+    "category": "payment",
+    "source_passage_preview": "d payment terms set forth in Section 4.2.\n\n(c) With respect to any reduction in the Safety Stock pursuant to Sections 3.6(a)(ii) or 3.6(d), to the ext",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What is the maximum amount of damages ADMA can be required to pay Sanofi Pasteur under the agreement, excluding the indemnity for personal injury, illness, or death claims?",
+    "gold": {
+      "doc_id": "file8",
+      "start": 10500,
+      "end": 12000
+    },
+    "category": "liability",
+    "source_passage_preview": "ctive directors, officers, employees, agents or representative, for any loss or damage to the Sanofi Pasteur Property while under storage conditions a",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What obligations apply to a party that wishes to publish an abstract or presentation, including how the other party can request a delay and what consent is needed for confidential content?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 168000,
+      "end": 169500
+    },
+    "category": "confidentiality",
+    "source_passage_preview": "and suggestions. The Party proposing to publish such an abstract or make such a presentation shall, in good faith, consider the comments made by the o",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "How does the agreement define a party's \"Control\" over its know\u2011how, inventions, patents, and other intellectual property rights for the purpose of granting licenses or sublicenses?",
+    "gold": {
+      "doc_id": "file13",
+      "start": 10500,
+      "end": 12000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "t lifecycle, taking into account the stage of development or product lifecycle of other of [***] product candidates, safety and efficacy, product prof",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "How is the financial responsibility for approved clinical studies allocated between the parties under the agreement?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 82500,
+      "end": 84000
+    },
+    "category": "payment",
+    "source_passage_preview": "Study(ies) are Global Registration Studies, then the cost of such Approved Clinical Study(ies) (including out-of-pocket costs incurred by the Parties ",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Under what conditions does the royalty period for a product automatically cease according to the agreement?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 22500,
+      "end": 24000
+    },
+    "category": "termination",
+    "source_passage_preview": "l the last of: (a) [ * ] thereafter; (b) the expiration of all Valid Claims within the Array Patents that would, but for the license granted under thi",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "How is the financial responsibility for indemnification losses allocated among the Company, the Association, and Capital Resources when the primary indemnification source is unavailable?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 108000,
+      "end": 109500
+    },
+    "category": "liability",
+    "source_passage_preview": " servants and  employees  and not to the Association,  its directors and officers, agents, servants and employees and the Association  shall not be en",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "What responsibilities are the parties required to undertake concerning pharmacovigilance and the sharing of safety information for the product?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 117000,
+      "end": 118500
+    },
+    "category": "liability",
+    "source_passage_preview": " the sponsor, and/or any Marketing Approvals granted for the Product, in the\n\n37\n\n\n\n\n\n\n\n[ * ] = Certain confidential information contained in this doc",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Which document defines the financial sponsorship and fee arrangement between Newegg and Allied for the HyperX Esports Arena Las Vegas?",
+    "gold": {
+      "doc_id": "file20",
+      "start": 0,
+      "end": 1500
+    },
+    "category": "payment",
+    "source_passage_preview": "Exhibit 10.34 EVENT SPONSORSHIP AGREEMENT This Event Sponsorship Agreement (\"Agreement\") is made and effective as of February 1, 2019 (the \"Effective ",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "Which provision states that the Company does not obtain ownership rights in the Arizona Licensed IP and must refrain from registering or challenging Arizona's ownership of that IP?",
+    "gold": {
+      "doc_id": "file29",
+      "start": 19500,
+      "end": 21000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "esponsible for such Sublicensees' compliance, with all terms and conditions hereof applicable to the Parties. At the request of a licensing Party, the",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "Under the agreement, what are Accuray's responsibilities and the limitations on those responsibilities when a product purchased by the Distributor infringes a third party's proprietary rights?",
+    "gold": {
+      "doc_id": "file4",
+      "start": 51000,
+      "end": 52500
+    },
+    "category": "liability",
+    "source_passage_preview": "eof purchased by Distributor hereunder infringes a third party's proprietary rights, then Accuray agrees, at its  discretion, either to (i) defend the",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "What corporate and legal prerequisites must a party satisfy before it is entitled to grant the rights and licenses set forth in the agreement?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 225000,
+      "end": 226500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "NS, WARRANTIES AND COVENANTS\n\n15.1 Mutual Covenants, Representations and Warranties. Each Party covenants, represents and warrants to the other Party ",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Can you outline the cost structure, material requirements, and delivery timelines for the BIB balloon and sheath components as specified in the agreement?",
+    "gold": {
+      "doc_id": "file25",
+      "start": 40500,
+      "end": 42000
+    },
+    "category": "payment",
+    "source_passage_preview": " complete\n\n[***] [***]\n\nPatched BIB ballon with Sheath, including raw material.\n\nManufacture / Deliver BIB Components for Commercial Use Apollo receiv",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What obligations does AMAG have upon becoming aware of a third\u2011party claim, and who is responsible for the costs and control of defending that claim?",
+    "gold": {
+      "doc_id": "file24",
+      "start": 88500,
+      "end": 90000
+    },
+    "category": "liability",
+    "source_passage_preview": "roved such failure pursuant to its in process acceptance activities set forth in the Quality Agreement; (d) [***]; (e) the warehousing or shipping of ",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Which party may arrange for the other to place material orders with subcontractors, and under what circumstances is Ono required to pay the supplier directly?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 150000,
+      "end": 151500
+    },
+    "category": "payment",
+    "source_passage_preview": "ts with its Subcontractors;\n\n(b) Array may place orders for Materials with its Subcontractors on Ono's behalf, or, subject to Ono and the Subcontracto",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "When the Agent's legal advisor finds that the prospectus needs updating to avoid being misleading, what steps must the Company, the MHCs, and the Bank take?",
+    "gold": {
+      "doc_id": "file18",
+      "start": 72000,
+      "end": 73500
+    },
+    "category": "liability",
+    "source_passage_preview": "ated thereunder, including, without limitation, Regulation M under the Exchange Act, so far as necessary to permit the continuance of sales or dealing",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "Which party is required to handle the registration of the encorafenib product trademark in the Ono Territory, and which party is responsible for covering the filing costs?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 190500,
+      "end": 192000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " Encorafenib. If the Product Trademark for Products containing Encorafenib is braftovi, Array (or its designee) shall use Diligent Efforts to file and",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Identify the three primary grounds on which the company could be held legally responsible for statements or omissions in connection with the securities offering documents.",
+    "gold": {
+      "doc_id": "file11",
+      "start": 99000,
+      "end": 100500
+    },
+    "category": "liability",
+    "source_passage_preview": "ompany or the  Association  or based upon written  information  supplied  by the Company or the  Association  filed in any state or  jurisdiction  to ",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "What corporate and regulatory qualifications does Capital Resources represent and warrant to the Company and the Association in the agreement?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 39000,
+      "end": 40500
+    },
+    "category": "liability",
+    "source_passage_preview": "such representation and warranty were set forth herein.\n\n                  SECTION 5. Capital  Resources  represents  and warrants to the Company and ",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "In what scenario is a party required to compensate the other party for any fines, legal expenses, or other penalties stemming from a breach of the Foreign Corrupt Practices Act?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 61500,
+      "end": 63000
+    },
+    "category": "liability",
+    "source_passage_preview": "hall not offer or pay any bribe to any individual or corporation in connection with the provision or support of any Airspan Products obtained under th",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "In the contract, how does the Fund agree to protect the Blockchain Administrator and its related parties from claims arising from their service as blockchain administrator?",
+    "gold": {
+      "doc_id": "file26",
+      "start": 9000,
+      "end": 10500
+    },
+    "category": "liability",
+    "source_passage_preview": "ces, proxy statements and reports to regulatory agencies; (ix) the cost of office supplies, including stationery; travel expenses of all officers, Tru",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "After the prospectus is delivered to a purchaser, what steps must the Company, the MHC, and the Bank take to amend or supplement the registration statement and prospectus and to provide related documents to the Agent?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 60000,
+      "end": 61500
+    },
+    "category": "liability",
+    "source_passage_preview": " time  the  Prospectus  is                delivered to a purchaser,  the Company, the MHC and the Bank will                immediately  so inform the ",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "Identify the contract provision that outlines the distributor's payment rights after the agreement ends and confirms that the distributor has no entitlement to continued business or recoupment of investments.",
+    "gold": {
+      "doc_id": "file14",
+      "start": 45000,
+      "end": 46500
+    },
+    "category": "termination",
+    "source_passage_preview": " of termination or expiration of this Agreement for reimbursement or damages for loss of goodwill, prospective profits, or anticipated orders, or on a",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "What reporting duties does the company have to provide annual and quarterly financial statements and related disclosures to its stockholders and",
+    "gold": {
+      "doc_id": "file18",
+      "start": 75000,
+      "end": 76500
+    },
+    "category": "payment",
+    "source_passage_preview": "arter next following the effective date of the Registration Statement (as defined in Rule 158 of the Securities Act Regulations) that will satisfy the",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "Which clause outlines AMAG\u2019s guarantees that the drug and prefilled syringes will meet regulatory standards and that all necessary permits and licenses will be secured for their manufacture and supply?",
+    "gold": {
+      "doc_id": "file24",
+      "start": 75000,
+      "end": 76500
+    },
+    "category": "liability",
+    "source_passage_preview": " approvals to enter and execute this Agreement, and (iii) that it is not aware of any impediment that would inhibit its ability to perform its obligat",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Which provision in the contract explains how undisclosed legal proceedings are treated and",
+    "gold": {
+      "doc_id": "file11",
+      "start": 73500,
+      "end": 75000
+    },
+    "category": "liability",
+    "source_passage_preview": "ending or threatened which are required to be disclosed in the Registration Statement and the Offering Prospectus,  other than those disclosed therein",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "Which clause obligates the Company, the MHC and the Bank to reimburse the Agent\u2019s incurred costs and to indemnify the Agent against certain claims, even if the offering does not close?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 70500,
+      "end": 72000
+    },
+    "category": "payment",
+    "source_passage_preview": "      borrowed  money,  except  borrowings  from  the  same or  similar                sources indicated in the Prospectus in the ordinary course of i",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "Which party is obligated to bear the costs for completing the existing clinical",
+    "gold": {
+      "doc_id": "file30",
+      "start": 75000,
+      "end": 76500
+    },
+    "category": "payment",
+    "source_passage_preview": " Clinical Studies to be agreed upon and set forth in Joint Development Plans as described in Section 4.4 below.\n\n(c)  Current Development Status. Prio",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What minimum royalty percentages apply during the initial and secondary royalty terms, and how are any excess amounts carried forward?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 136500,
+      "end": 138000
+    },
+    "category": "payment",
+    "source_passage_preview": "Sections 6.4, 6.5, and 6.6, the Royalty Payment to Array shall not be reduced in any calendar quarter (a) during the Initial Royalty Term to less than",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What responsibilities must a party fulfill with respect to clinical trials that are still in progress at the time the agreement is terminated?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 205500,
+      "end": 207000
+    },
+    "category": "termination",
+    "source_passage_preview": "nation, has already accrued to the other Party or which is attributable to a period prior to such expiration or termination, nor will any termination ",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Under the agreement, what steps must the distributor take when it becomes aware of a potential third\u2011party infringement of Accuray's proprietary rights, including cooperation with any legal action?",
+    "gold": {
+      "doc_id": "file4",
+      "start": 49500,
+      "end": 51000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "Agreement will terminate any obligation of payment which has accrued prior to the  effective date of such termination or expiration.     7. DISPUTE RE",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "What is the cap on PivX's financial responsibility to Detto or any third party under the agreement, and which types of damages are excluded from that cap?",
+    "gold": {
+      "doc_id": "file7",
+      "start": 16500,
+      "end": 18000
+    },
+    "category": "liability",
+    "source_passage_preview": "ation; (b) replace or modify Qwik-Fix Pro and Documentation so that they become noninfringing, provided such modification or replacement does not mate",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "In a bankruptcy proceeding involving one party, what rights does the other party have to obtain a complete duplicate or access to the licensed intellectual property and its embodiments?",
+    "gold": {
+      "doc_id": "file13",
+      "start": 135000,
+      "end": 136500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "ect to amounts accruing prior to expiration or termination of this Agreement) and Sections: 2.2.1, 2.3 (with respect to the applicable Party being res",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What certification does the company provide concerning any",
+    "gold": {
+      "doc_id": "file16",
+      "start": 111000,
+      "end": 112500
+    },
+    "category": "liability",
+    "source_passage_preview": "ve sustained since                the  date of the  latest  financial  statements  included  in the                Prospectus  any material loss or  i",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "Which portion of the agreement confirms that no additional governmental approvals are required for the execution and delivery of the agreement and",
+    "gold": {
+      "doc_id": "file18",
+      "start": 96000,
+      "end": 97500
+    },
+    "category": "governing law",
+    "source_passage_preview": " order suspending the effectiveness of the Registration Statement has been issued under the Securities Act or, proceedings therefor initiated or, to t",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "Under what circumstances can the Company, the MHC, and the Bank avoid liability for false or misleading statements in the prospectus and related sales materials?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 15000,
+      "end": 16500
+    },
+    "category": "liability",
+    "source_passage_preview": "),   and  any  information                regarding  the  Company,  the MHC or the Bank  contained in Sales                Information  (as  such  ter",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "Under the agreement, which party must obtain Antares' written approval before discarding returned or defective products if AMAG intends to pursue a claim against Antares?",
+    "gold": {
+      "doc_id": "file24",
+      "start": 58500,
+      "end": 60000
+    },
+    "category": "liability",
+    "source_passage_preview": " a Product, sample Product or Trainer.\n\n(c) Product Returns. AMAG shall have the responsibility for handling customer returns of the Products, sample ",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What is the maximum length of time Ono may continue marketing the product in a given country after Array secures a new distributor",
+    "gold": {
+      "doc_id": "file30",
+      "start": 208500,
+      "end": 210000
+    },
+    "category": "termination",
+    "source_passage_preview": "et or promote) the Product, in accordance\n\n66\n\n\n\n\n\n\n\n[ * ] = Certain confidential information contained in this document, marked by brackets, has been",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Under the agreement between Collectible Concepts Group, Inc. and Pivotal Self Service Tech, Inc., what name is assigned to the joint venture they are forming?",
+    "gold": {
+      "doc_id": "file3",
+      "start": 0,
+      "end": 1500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "EXHIBIT 10.13\n\n                             JOINT VENTURE AGREEMENT\n\nCollectible Concepts Group, Inc. (\"CCGI\") and Pivotal Self Service Tech, Inc. (\"P",
+    "_reject_reason": "verbatim_overlap"
+  },
+  {
+    "query": "What provision explains that ending the agreement does not nullify rights earned before termination and does not excuse parties from duties that are specifically listed to continue after termination?",
+    "gold": {
+      "doc_id": "file24",
+      "start": 73500,
+      "end": 75000
+    },
+    "category": "termination",
+    "source_passage_preview": " for the time period set forth therein), ARTICLE 10 (Confidentiality), ARTICLE 11 (Dispute Resolution), and Sections 2.9 (Retained Samples) (for the p",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Which party is responsible for filing, prosecuting, and maintaining Array Patents in the Ono Territory, and who bears the associated costs?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 174000,
+      "end": 175500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "iling, prosecution and enforcement of Joint Patents is described in Section 11.2(b) below. With respect to the filing, prosecution and enforcement of ",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "Under the agreement, what obligations does Accuray have to defend and compensate Distributor when a third party claims",
+    "gold": {
+      "doc_id": "file4",
+      "start": 55500,
+      "end": 57000
+    },
+    "category": "liability",
+    "source_passage_preview": "ndemnity. Accuray will defend or settle any action brought against Distributor and shall indemnify and hold Distributor  harmless from any liability, ",
+    "_reject_reason": "too_short_or_malformed"
+  },
+  {
+    "query": "Which section of the agreement outlines the methodology for calculating Net Sales and specifies the allowable deductions such as discounts, rebates, and chargebacks?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 27000,
+      "end": 28500
+    },
+    "category": "payment",
+    "source_passage_preview": " any and all processes and activities conducted to establish and maintain national country reimbursement, as well as at country level, regional and lo",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "When does the agreement end and what rights does Ono obtain after the agreement expires?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 199500,
+      "end": 201000
+    },
+    "category": "termination",
+    "source_passage_preview": "n any internet page or web site in their respective territories.\n\nARTICLE XIII\n\nTERM AND TERMINATION\n\n13.1 Term. This Agreement shall commence on the ",
+    "_reject_reason": "redacted"
+  },
+  {
+    "query": "What is the hourly rate Aduro pays the consultant, and how many days after receiving an invoice must Aduro make payment?",
+    "gold": {
+      "doc_id": "file9",
+      "start": 0,
+      "end": 1500
+    },
+    "category": "payment",
+    "source_passage_preview": "Exhibit 10.7\n\nCONSULTING AGREEMENT\n\nAduro Biotech, Inc., with a place of business at 740 Heinz Avenue, Berkeley, CA 94710 (\"Aduro\") and IREYA B.V havi",
+    "_reject_reason": "manual"
+  },
+  {
+    "query": "What documentation must the Agent receive on the Closing Date to verify the bank\u2019s financial condition and allow the transaction to proceed?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 108000,
+      "end": 109500
+    },
+    "category": "payment",
+    "source_passage_preview": "days  prior to the  date of the  Prospectus,  except  as has been                described   in  the   Prospectus,   there  was  any  increase  in    ",
+    "_reject_reason": "manual"
+  },
+  {
+    "query": "Which section of the document contains a detailed inventory of the company's patent applications and granted patents, including their application numbers, filing dates, and issuance dates for each jurisdiction?",
+    "gold": {
+      "doc_id": "file29",
+      "start": 49500,
+      "end": 51000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " 2009 024 610.0 30-Apr-09 2 286 018 EP 9739191.6 30-Apr-09 2286018 11-Jun-14 EP 13192693.3 30-Apr-09 2703461 31-Aug-16 FR 9739191.6 30-Apr-09 2 286 01",
+    "_reject_reason": "manual"
+  },
+  {
+    "query": "Which contract clause outlines each party's ability to disclose clinical study results and the procedures for safeguarding confidential data?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 63000,
+      "end": 64500
+    },
+    "category": "confidentiality",
+    "source_passage_preview": " to any Clinical Study, Adaptimmune shall have the *** right to publish or publicly disclose any Data or results arising from such Clinical Study incl",
+    "_reject_reason": "manual"
+  },
+  {
+    "query": "What provision in the agreement attests that the registration statement and offering prospectus comply with the 1933 Act and do not include any false or omitted material facts?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 13500,
+      "end": 15000
+    },
+    "category": "governing law",
+    "source_passage_preview": "the Offering Prospectus  contained therein (including any amendment or supplement thereto),  became effective,  the Registration  Statement complied i",
+    "_reject_reason": "manual"
+  },
+  {
+    "query": "Which document includes a notice indicating it is for internal use only and is copyrighted by Siemens AG?",
+    "gold": {
+      "doc_id": "file4",
+      "start": 78000,
+      "end": 79500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " compliance with this Code of Conduct;  \u00b7 to comply with the principles of non discrimination with regard to supplier selection and treatment.\n\n(1) Fo",
+    "_reject_reason": "manual"
+  },
+  {
+    "query": "In the agreement, which clause outlines the parties entitled to indemnification and specifies the circumstances under which Adaptimmune is not required to provide indemnification?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 57000,
+      "end": 58500
+    },
+    "category": "liability",
+    "source_passage_preview": "rson, System, each Principal Investigator and its/their Regents, trustees, directors, officers, staff, employees, students, faculty members, and its/t",
+    "_reject_reason": "manual"
+  },
+  {
+    "query": "Under what clause does each side agree to protect the other party and its affiliates from third\u2011party claims arising from breaches of representations or non\u2011compliance with applicable laws?",
+    "gold": {
+      "doc_id": "file19",
+      "start": 22500,
+      "end": 24000
+    },
+    "category": "liability",
+    "source_passage_preview": "NT SHALL THE NON-BREACHING PARTY BE ENTITLED TO EQUITABLE OR INJUNCTIVE RELIEF OF ANY KIND.\n\n6\n\nSource: ALLIED ESPORTS ENTERTAINMENT, INC., 8-K, 8/15/",
+    "_reject_reason": "manual"
+  }
+]
