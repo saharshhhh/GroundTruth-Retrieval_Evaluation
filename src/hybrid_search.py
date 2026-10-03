@@ -26,7 +26,7 @@ class HybridRetriever:
         self.bm25 = bm25_retriever
         self.k_rrf = k_rrf
 
-    def search(self, query, k=10, pool_size=5):
+    def search(self, query, k=10, pool_size=1):
         # pull a larger pool from each so RRF has enough candidates to fuse
         dense_results = self.dense.search(query, k=pool_size)
         bm25_results = self.bm25.search(query, k=pool_size)
