@@ -22,4 +22,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run retrieval regression test
-        run: pytest tests/test_regression.py -v
+        run: python -m pytest tests/test_regression.py -v
