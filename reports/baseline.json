@@ -1,0 +1,7 @@
+{
+  "config": "Hybrid",
+  "recall@10": 0.956,
+  "mrr": 0.8397,
+  "ndcg@10": 0.8678,
+  "n_queries": 91
+}

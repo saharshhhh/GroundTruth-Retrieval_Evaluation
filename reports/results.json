@@ -1,0 +1,1511 @@
+{
+  "Dense": {
+    "overall": {
+      "recall@10": 0.9341,
+      "mrr": 0.7805,
+      "ndcg@10": 0.8188,
+      "n": 91
+    },
+    "by_category": {
+      "termination": {
+        "recall@10": 0.85,
+        "mrr": 0.6912,
+        "ndcg@10": 0.7298,
+        "n": 20
+      },
+      "liability": {
+        "recall@10": 1.0,
+        "mrr": 0.8333,
+        "ndcg@10": 0.8737,
+        "n": 21
+      },
+      "payment": {
+        "recall@10": 1.0,
+        "mrr": 0.8889,
+        "ndcg@10": 0.918,
+        "n": 9
+      },
+      "confidentiality": {
+        "recall@10": 0.75,
+        "mrr": 0.6667,
+        "ndcg@10": 0.6875,
+        "n": 8
+      },
+      "governing law": {
+        "recall@10": 1.0,
+        "mrr": 0.7048,
+        "ndcg@10": 0.7793,
+        "n": 14
+      },
+      "intellectual property": {
+        "recall@10": 0.9474,
+        "mrr": 0.8684,
+        "ndcg@10": 0.8891,
+        "n": 19
+      }
+    },
+    "per_query": [
+      {
+        "query": "If MD\u202fAnderson ends the agreement during the limited unilateral termination window, what steps must the parties take regarding any ongoing clinical study and the settlement of accrued study\u2011related payments?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What specific financial changes listed in the agreement would trigger a termination event or default?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "In the agreement between Aimmune and Xencor, what does Section 10.5 state about representations and warranties, and how does Section 10.4 specifically caveat Xencor's ability to guarantee the Product's safety or Regulatory Approval?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "How does the agreement ensure that any compensation paid to MD Anderson complies with anti\u2011kickback statutes and reflects fair market value rather than being tied to referrals or volume of business?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "What specific documents \u2014 including the Conversion Application, Holding Company Application, and Registration Statement \u2014 must the Company and Association deliver to Capital Resources and its counsel, and how many conformed copies are required?",
+        "category": "confidentiality",
+        "rank": null
+      },
+      {
+        "query": "Under the agreement between Airspan and Distributor, what is the Initial Term length, and how much advance written notice does Section 13.2 require before either party may terminate early for material breach?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Which provision specifies that all disputes under this agreement will be governed by Texas law and that the parties waive any personal jurisdiction objections?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Which provision in the contract details the pre\u2011closing requirements, such as the absence of material adverse changes and the continued accuracy of representations and warranties, that the parties must meet before the transaction can close?",
+        "category": "liability",
+        "rank": 4
+      },
+      {
+        "query": "What information does the contract provide regarding the Company's and Bank's legal qualifications and authorized share capital across different jurisdictions?",
+        "category": "governing law",
+        "rank": 3
+      },
+      {
+        "query": "Under the Newegg-Allied agreement, what specific notice and cure period applies before a breach automatically terminates the agreement under Section 14.3, and how does this differ from the immediate-termination provisions in Sections 14.1 and 14.5?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances can a distributor revoke a purchase order and what steps are required for any amendments to become enforceable between the parties?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Which clause obligates Airspan to cover Distributor\u2019s legal expenses and protect them from third\u2011party allegations that using the equipment or software violates patents or copyrights?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under the Adaptimmune\u2013MD Anderson agreement, per Section 7.7, which party has the first right to prepare, file, and prosecute patents for jointly-owned Inventions?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under [party names], which specific sections survive termination per the survival clause, and for what post-termination period?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "Which part of the contract defines the scope of Arizona Assigned IP, including copyrights, internet domain names, know-how, patents, and trademarks?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "Under the joint venture agreement, which party is responsible for covering the operational expenses, insurance costs, and audit fees associated with the venture?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under the Newegg agreement, Section 13.1 lists exceptions to what counts as Confidential Information \u2014 what are those exceptions?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Can you identify the portion of the document that verifies the continued validity of all governmental and regulatory approvals required for the merger and related corporate activities, and confirms that no objections or challenges to those approvals are currently pending?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What limitations does the distributor face regarding the use of Airspan's brand symbols and corporate names?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What actions is Arizona prohibited from performing with respect to the company's licensed intellectual property, and what additional conduct must it avoid assisting others in doing?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section (b), which parties does the Agent indemnify against prospectus misstatement losses, per Section 15 of the Securities Act or Section 20 of the Exchange Act?",
+        "category": "liability",
+        "rank": 6
+      },
+      {
+        "query": "Under Section 9(a), what specific circumstances allow the Agent to terminate this agreement before Closing Time?",
+        "category": "termination",
+        "rank": 8
+      },
+      {
+        "query": "Which provision of the agreement grants the successful party in a legal action to obtain reimbursement for their attorney's expenses and also specifies the method for delivering notices and payments?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What obligations does Allied have to ensure proper display and attribution of Newegg's trademarks in all promotional materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 13.4 of the Arizona/Armstrong Flooring agreement, what equitable relief is available without posting a bond or security?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What is the maximum total amount Capital Resources can be required to pay or contribute under the indemnification clause?",
+        "category": "liability",
+        "rank": 3
+      },
+      {
+        "query": "Under this agreement, which four specific market/economic conditions \u2014 Nasdaq trading halts, banking moratorium, war declaration, or material price decline \u2014 allow the underwriter to terminate before the Closing Date?",
+        "category": "termination",
+        "rank": 2
+      },
+      {
+        "query": "Under what circumstances is the Company obligated to end its commitments and require the ValueAct Designee to resign from board service?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Within what timeframe must Adaptimmune provide written notice to MD Anderson after an invention is disclosed in order to retain the right to negotiate a license, and what is the effect if that notice is not given within that period?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "Under what conditions does the agreement end on its own without either side taking any additional steps?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "Under Section 3.3 of the Adaptimmune\u2013MD Anderson agreement, what restrictions apply to the receiving party's use, transfer, and destruction of Proprietary Materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What certificate must the Agent receive at the Closing Date from the Company\u2019s officers to confirm the Prospectus\u2019s accuracy and that no material events have occurred since its authorization?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 1.4(a) of this agreement, what IP rights does Provider irrevocably assign to Recipient for inventions made while working on the Services?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What steps is Diplomat required to take regarding inventory and the sale of covered products after the license ends, and what conditions must be met for such sales?",
+        "category": "termination",
+        "rank": 2
+      },
+      {
+        "query": "Under Section 13.5, which state's law governs the Arizona/Buyer Entities agreement, and which Delaware court has designated jurisdiction?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What approval must the provider obtain before replacing the personnel listed in Exhibit A who are responsible for delivering the services?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What obligations must the distributor fulfill when a third\u2011party claim arises concerning the product, and what actions may Accuray take if the distributor\u2019s rights to use the product are enjoined?",
+        "category": "liability",
+        "rank": 4
+      },
+      {
+        "query": "Which section of the contract mandates that any disputes between the parties be resolved in California federal courts?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "If the Provider engages subcontractors to perform the Services, what responsibilities does the Provider retain concerning performance, quality, and financial obligations under the agreement?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what obligations must Adaptimmune fulfill and what rights does MD Anderson obtain when Adaptimmune chooses not to file or maintain a patent for a jointly-owned invention?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What steps must the franchisee take immediately after the agreement ends, such as stopping operations, discontinuing use of the brand, canceling directory listings, and settling any outstanding payments and damages?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, which sections explain that Ono may only sublicense certain licenses to its affiliates and that it is prohibited from modifying Binimetinib or Encorafenib?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 5.1 of the Adaptimmune\u2013MD Anderson agreement, how is 'Confidential Information' defined for purposes of a Study, and in what forms may it be disclosed?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "What specific corporate actions are prohibited for ValueAct Group and its affiliates under the agreement?",
+        "category": "governing law",
+        "rank": 3
+      },
+      {
+        "query": "Under what provision does the agreement designate Texas law as the governing law and address the state's sovereign immunity?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "How does the agreement define the payment deadline for undisputed invoice amounts and the procedure the distributor must follow if they wish to dispute an invoice?",
+        "category": "payment",
+        "rank": 2
+      },
+      {
+        "query": "What steps is the distributor required to take to acknowledge Airspan's ownership of its trademarks and to respect Airspan's exclusive copyright rights in promotional materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 9 of the Associate-Company agreement, which state's laws govern this agreement?",
+        "category": "governing law",
+        "rank": 5
+      },
+      {
+        "query": "If neither party provides the required notice before the current term expires, what effect does this have on the agreement's duration?",
+        "category": "termination",
+        "rank": 2
+      },
+      {
+        "query": "Which portion of the agreement details the parties' responsibilities for providing documentation and the manufacturer's obligations to adhere to local laws and international manufacturing standards?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What responsibilities does MD Anderson have to maintain and supply records of payments made under the agreement so that Adaptimmune can satisfy its reporting obligations under the federal law concerning physician payments?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under subsection (f) of the Capital Resources agreement, what pre-closing conditions regarding material adverse change and OTS/FDIC compliance must be satisfied?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What must the Agent obtain from the auditors at signing to confirm that the auditors are independent and that the financial statements comply with securities regulations?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What responsibilities does the ValueAct Designee have to keep the company's internal discussions and non-public information confidential while serving on the board?",
+        "category": "confidentiality",
+        "rank": 3
+      },
+      {
+        "query": "What responsibilities does the Blockchain Administrator have concerning the Fund\u2019s records when the agreement is terminated?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what advertising and sponsorship rights does the sponsor receive across digital, print, and social media platforms, and how does the club retain discretion over the placement and presentation of those rights?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 14 of the Capital Resources agreement, who is entitled to rely on notices and requests given on behalf of the Company or the Association?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Which section describes the process for selecting and using brand names for Binimetinib-containing products, including fallback options and the method for resolving any disagreements?",
+        "category": "intellectual property",
+        "rank": null
+      },
+      {
+        "query": "What responsibilities does the establishment have to address issues found during Apollo\u2019s or a regulatory authority\u2019s inspection of the manufacturing facilities?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "When may a party disclose the other party\u2019s confidential information, and what notice and limitations apply to such disclosure?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "What legal confirmations are required to ensure that the Company's actions in completing the transaction will not conflict with any existing agreements or violate applicable federal laws and regulations?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "Under the Diplomat\u2013KI, Inc. agreement, what approval process applies to product samples, and what is the effect of KI's failure to reject within 15 days?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "In the agreement, under what scenario is 2TheMart permitted to grant sublicenses to its business partners for its content?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What method does the clinical supply agreement use to calculate the amount Ono will pay for materials procured by Array?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 6.5 of the Detto-PivX agreement, when is PivX excused from liability for delay or failure to perform under force majeure?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what labeling obligations and approval procedures is Diplomat required to follow for its products and promotional materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 19 of the AIRSOPURE agreement, what must the parties attempt before bringing a dispute to court?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What steps is Array required to take when it decides not to file or continue a patent in the Ono Territory?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "When must the monthly franchise fees be paid, and how is interest calculated for any overdue payments?",
+        "category": "payment",
+        "rank": 2
+      },
+      {
+        "query": "In the agreement, which article outlines the procedure for dealing with provisions that a court deems unenforceable?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Under the Airspan-Distributor agreement, what do the parties represent and warrant regarding payments to government officials or private customers?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Which provision describes Detto's obligations to protect Qwik-Fix Pro and its documentation, and includes an indemnity clause for PivX in case Detto breaches those security duties?",
+        "category": "liability",
+        "rank": 2
+      },
+      {
+        "query": "Under Section 12.12 of the Accuray-Distributor agreement, which specific sections survive termination or expiration of the agreement?",
+        "category": "termination",
+        "rank": 5
+      },
+      {
+        "query": "Which document sets out the terms under which one Delaware corporation grants another the right to use the ARMX trademark?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances can a party be excused from performing its obligations because of events beyond its control?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "In the agreement, which section describes the business plan and franchise methods as trade secrets and outlines the potential damage if they are disclosed?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what are the five standard exceptions (a)-(e) to the definition of Confidential Information?",
+        "category": "confidentiality",
+        "rank": null
+      },
+      {
+        "query": "Under Section 13.1 of the Adaptimmune\u2013MD Anderson agreement, what consent is required before using the other party's name or logo in advertising materials?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Which provision of the agreement states that Delaware law will exclusively govern its validity, interpretation, and effect?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "How is the fee for each transaction inquiry calculated, under what circumstances may it be adjusted, and what reporting and audit obligations does i\u2011Escrow have in relation to those fees?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what compensation does the Agent receive for its services, including the management fee payment schedule and any additional fees tied to the offering?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Which provision of the agreement limits the company's guarantees and outlines ongoing compliance with the conversion rules and the regulatory body's requirements?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what responsibilities must the Company fulfill concerning the qualification, registration, and periodic reporting of the Shares in each jurisdiction where they are offered?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What clause confirms that the agreement is legally binding and outlines any limitations on its enforceability under bankruptcy, insolvency, or other regulatory statutes?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "What preconditions must be satisfied at the closing time, including regulatory confirmations and officer certifications, to allow the transaction to proceed under the agreement?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what are the primary characteristics and limitations of the license that Zynga grants to WPT, such as its exclusivity, assignability, royalty requirements, and geographic scope?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What is the vendor's only responsibility regarding safety\u2011related fixes for a system during the ten years after installation, and what does that responsibility cover and not cover?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Which part of the addendum requires Diplomat Ambassador Eyewear Group to adhere to state labor and safety laws and to cooperate with Kathy Ireland\u2019s related requests?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Sections 17.01 and 17.02 of the AIRSOPURE franchise agreement, what indemnification obligations does each party owe, and what exceptions apply?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "If a material breach is limited to specific categories of licensed intellectual property, what termination rights does the non\u2011breaching party have under the agreement?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What circumstances allow Capital Resources to cancel the agreement and what notice must be given to the Association when such cancellation occurs?",
+        "category": "termination",
+        "rank": 1
+      }
+    ]
+  },
+  "Hybrid": {
+    "overall": {
+      "recall@10": 0.956,
+      "mrr": 0.8397,
+      "ndcg@10": 0.8678,
+      "n": 91
+    },
+    "by_category": {
+      "termination": {
+        "recall@10": 0.85,
+        "mrr": 0.7875,
+        "ndcg@10": 0.8031,
+        "n": 20
+      },
+      "liability": {
+        "recall@10": 0.9524,
+        "mrr": 0.8651,
+        "ndcg@10": 0.8866,
+        "n": 21
+      },
+      "payment": {
+        "recall@10": 1.0,
+        "mrr": 0.9444,
+        "ndcg@10": 0.959,
+        "n": 9
+      },
+      "confidentiality": {
+        "recall@10": 1.0,
+        "mrr": 0.6701,
+        "ndcg@10": 0.7492,
+        "n": 8
+      },
+      "governing law": {
+        "recall@10": 1.0,
+        "mrr": 0.7929,
+        "ndcg@10": 0.8412,
+        "n": 14
+      },
+      "intellectual property": {
+        "recall@10": 1.0,
+        "mrr": 0.9228,
+        "ndcg@10": 0.9414,
+        "n": 19
+      }
+    },
+    "per_query": [
+      {
+        "query": "If MD\u202fAnderson ends the agreement during the limited unilateral termination window, what steps must the parties take regarding any ongoing clinical study and the settlement of accrued study\u2011related payments?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What specific financial changes listed in the agreement would trigger a termination event or default?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "In the agreement between Aimmune and Xencor, what does Section 10.5 state about representations and warranties, and how does Section 10.4 specifically caveat Xencor's ability to guarantee the Product's safety or Regulatory Approval?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "How does the agreement ensure that any compensation paid to MD Anderson complies with anti\u2011kickback statutes and reflects fair market value rather than being tied to referrals or volume of business?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "What specific documents \u2014 including the Conversion Application, Holding Company Application, and Registration Statement \u2014 must the Company and Association deliver to Capital Resources and its counsel, and how many conformed copies are required?",
+        "category": "confidentiality",
+        "rank": 2
+      },
+      {
+        "query": "Under the agreement between Airspan and Distributor, what is the Initial Term length, and how much advance written notice does Section 13.2 require before either party may terminate early for material breach?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Which provision specifies that all disputes under this agreement will be governed by Texas law and that the parties waive any personal jurisdiction objections?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Which provision in the contract details the pre\u2011closing requirements, such as the absence of material adverse changes and the continued accuracy of representations and warranties, that the parties must meet before the transaction can close?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What information does the contract provide regarding the Company's and Bank's legal qualifications and authorized share capital across different jurisdictions?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Under the Newegg-Allied agreement, what specific notice and cure period applies before a breach automatically terminates the agreement under Section 14.3, and how does this differ from the immediate-termination provisions in Sections 14.1 and 14.5?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances can a distributor revoke a purchase order and what steps are required for any amendments to become enforceable between the parties?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Which clause obligates Airspan to cover Distributor\u2019s legal expenses and protect them from third\u2011party allegations that using the equipment or software violates patents or copyrights?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under the Adaptimmune\u2013MD Anderson agreement, per Section 7.7, which party has the first right to prepare, file, and prosecute patents for jointly-owned Inventions?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under [party names], which specific sections survive termination per the survival clause, and for what post-termination period?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "Which part of the contract defines the scope of Arizona Assigned IP, including copyrights, internet domain names, know-how, patents, and trademarks?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under the joint venture agreement, which party is responsible for covering the operational expenses, insurance costs, and audit fees associated with the venture?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under the Newegg agreement, Section 13.1 lists exceptions to what counts as Confidential Information \u2014 what are those exceptions?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Can you identify the portion of the document that verifies the continued validity of all governmental and regulatory approvals required for the merger and related corporate activities, and confirms that no objections or challenges to those approvals are currently pending?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What limitations does the distributor face regarding the use of Airspan's brand symbols and corporate names?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What actions is Arizona prohibited from performing with respect to the company's licensed intellectual property, and what additional conduct must it avoid assisting others in doing?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section (b), which parties does the Agent indemnify against prospectus misstatement losses, per Section 15 of the Securities Act or Section 20 of the Exchange Act?",
+        "category": "liability",
+        "rank": 2
+      },
+      {
+        "query": "Under Section 9(a), what specific circumstances allow the Agent to terminate this agreement before Closing Time?",
+        "category": "termination",
+        "rank": 4
+      },
+      {
+        "query": "Which provision of the agreement grants the successful party in a legal action to obtain reimbursement for their attorney's expenses and also specifies the method for delivering notices and payments?",
+        "category": "liability",
+        "rank": 6
+      },
+      {
+        "query": "What obligations does Allied have to ensure proper display and attribution of Newegg's trademarks in all promotional materials?",
+        "category": "intellectual property",
+        "rank": 3
+      },
+      {
+        "query": "Under Section 13.4 of the Arizona/Armstrong Flooring agreement, what equitable relief is available without posting a bond or security?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What is the maximum total amount Capital Resources can be required to pay or contribute under the indemnification clause?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under this agreement, which four specific market/economic conditions \u2014 Nasdaq trading halts, banking moratorium, war declaration, or material price decline \u2014 allow the underwriter to terminate before the Closing Date?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances is the Company obligated to end its commitments and require the ValueAct Designee to resign from board service?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Within what timeframe must Adaptimmune provide written notice to MD Anderson after an invention is disclosed in order to retain the right to negotiate a license, and what is the effect if that notice is not given within that period?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under what conditions does the agreement end on its own without either side taking any additional steps?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "Under Section 3.3 of the Adaptimmune\u2013MD Anderson agreement, what restrictions apply to the receiving party's use, transfer, and destruction of Proprietary Materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What certificate must the Agent receive at the Closing Date from the Company\u2019s officers to confirm the Prospectus\u2019s accuracy and that no material events have occurred since its authorization?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 1.4(a) of this agreement, what IP rights does Provider irrevocably assign to Recipient for inventions made while working on the Services?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What steps is Diplomat required to take regarding inventory and the sale of covered products after the license ends, and what conditions must be met for such sales?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 13.5, which state's law governs the Arizona/Buyer Entities agreement, and which Delaware court has designated jurisdiction?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What approval must the provider obtain before replacing the personnel listed in Exhibit A who are responsible for delivering the services?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What obligations must the distributor fulfill when a third\u2011party claim arises concerning the product, and what actions may Accuray take if the distributor\u2019s rights to use the product are enjoined?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Which section of the contract mandates that any disputes between the parties be resolved in California federal courts?",
+        "category": "governing law",
+        "rank": 6
+      },
+      {
+        "query": "If the Provider engages subcontractors to perform the Services, what responsibilities does the Provider retain concerning performance, quality, and financial obligations under the agreement?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what obligations must Adaptimmune fulfill and what rights does MD Anderson obtain when Adaptimmune chooses not to file or maintain a patent for a jointly-owned invention?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What steps must the franchisee take immediately after the agreement ends, such as stopping operations, discontinuing use of the brand, canceling directory listings, and settling any outstanding payments and damages?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, which sections explain that Ono may only sublicense certain licenses to its affiliates and that it is prohibited from modifying Binimetinib or Encorafenib?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 5.1 of the Adaptimmune\u2013MD Anderson agreement, how is 'Confidential Information' defined for purposes of a Study, and in what forms may it be disclosed?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "What specific corporate actions are prohibited for ValueAct Group and its affiliates under the agreement?",
+        "category": "governing law",
+        "rank": 10
+      },
+      {
+        "query": "Under what provision does the agreement designate Texas law as the governing law and address the state's sovereign immunity?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "How does the agreement define the payment deadline for undisputed invoice amounts and the procedure the distributor must follow if they wish to dispute an invoice?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "What steps is the distributor required to take to acknowledge Airspan's ownership of its trademarks and to respect Airspan's exclusive copyright rights in promotional materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 9 of the Associate-Company agreement, which state's laws govern this agreement?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "If neither party provides the required notice before the current term expires, what effect does this have on the agreement's duration?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Which portion of the agreement details the parties' responsibilities for providing documentation and the manufacturer's obligations to adhere to local laws and international manufacturing standards?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What responsibilities does MD Anderson have to maintain and supply records of payments made under the agreement so that Adaptimmune can satisfy its reporting obligations under the federal law concerning physician payments?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under subsection (f) of the Capital Resources agreement, what pre-closing conditions regarding material adverse change and OTS/FDIC compliance must be satisfied?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What must the Agent obtain from the auditors at signing to confirm that the auditors are independent and that the financial statements comply with securities regulations?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What responsibilities does the ValueAct Designee have to keep the company's internal discussions and non-public information confidential while serving on the board?",
+        "category": "confidentiality",
+        "rank": 2
+      },
+      {
+        "query": "What responsibilities does the Blockchain Administrator have concerning the Fund\u2019s records when the agreement is terminated?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what advertising and sponsorship rights does the sponsor receive across digital, print, and social media platforms, and how does the club retain discretion over the placement and presentation of those rights?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 14 of the Capital Resources agreement, who is entitled to rely on notices and requests given on behalf of the Company or the Association?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Which section describes the process for selecting and using brand names for Binimetinib-containing products, including fallback options and the method for resolving any disagreements?",
+        "category": "intellectual property",
+        "rank": 5
+      },
+      {
+        "query": "What responsibilities does the establishment have to address issues found during Apollo\u2019s or a regulatory authority\u2019s inspection of the manufacturing facilities?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "When may a party disclose the other party\u2019s confidential information, and what notice and limitations apply to such disclosure?",
+        "category": "confidentiality",
+        "rank": 4
+      },
+      {
+        "query": "What legal confirmations are required to ensure that the Company's actions in completing the transaction will not conflict with any existing agreements or violate applicable federal laws and regulations?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Under the Diplomat\u2013KI, Inc. agreement, what approval process applies to product samples, and what is the effect of KI's failure to reject within 15 days?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "In the agreement, under what scenario is 2TheMart permitted to grant sublicenses to its business partners for its content?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What method does the clinical supply agreement use to calculate the amount Ono will pay for materials procured by Array?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 6.5 of the Detto-PivX agreement, when is PivX excused from liability for delay or failure to perform under force majeure?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what labeling obligations and approval procedures is Diplomat required to follow for its products and promotional materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 19 of the AIRSOPURE agreement, what must the parties attempt before bringing a dispute to court?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What steps is Array required to take when it decides not to file or continue a patent in the Ono Territory?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "When must the monthly franchise fees be paid, and how is interest calculated for any overdue payments?",
+        "category": "payment",
+        "rank": 2
+      },
+      {
+        "query": "In the agreement, which article outlines the procedure for dealing with provisions that a court deems unenforceable?",
+        "category": "governing law",
+        "rank": 3
+      },
+      {
+        "query": "Under the Airspan-Distributor agreement, what do the parties represent and warrant regarding payments to government officials or private customers?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Which provision describes Detto's obligations to protect Qwik-Fix Pro and its documentation, and includes an indemnity clause for PivX in case Detto breaches those security duties?",
+        "category": "liability",
+        "rank": 2
+      },
+      {
+        "query": "Under Section 12.12 of the Accuray-Distributor agreement, which specific sections survive termination or expiration of the agreement?",
+        "category": "termination",
+        "rank": 2
+      },
+      {
+        "query": "Which document sets out the terms under which one Delaware corporation grants another the right to use the ARMX trademark?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances can a party be excused from performing its obligations because of events beyond its control?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "In the agreement, which section describes the business plan and franchise methods as trade secrets and outlines the potential damage if they are disclosed?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what are the five standard exceptions (a)-(e) to the definition of Confidential Information?",
+        "category": "confidentiality",
+        "rank": 9
+      },
+      {
+        "query": "Under Section 13.1 of the Adaptimmune\u2013MD Anderson agreement, what consent is required before using the other party's name or logo in advertising materials?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Which provision of the agreement states that Delaware law will exclusively govern its validity, interpretation, and effect?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "How is the fee for each transaction inquiry calculated, under what circumstances may it be adjusted, and what reporting and audit obligations does i\u2011Escrow have in relation to those fees?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what compensation does the Agent receive for its services, including the management fee payment schedule and any additional fees tied to the offering?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Which provision of the agreement limits the company's guarantees and outlines ongoing compliance with the conversion rules and the regulatory body's requirements?",
+        "category": "liability",
+        "rank": null
+      },
+      {
+        "query": "Under the agreement, what responsibilities must the Company fulfill concerning the qualification, registration, and periodic reporting of the Shares in each jurisdiction where they are offered?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What clause confirms that the agreement is legally binding and outlines any limitations on its enforceability under bankruptcy, insolvency, or other regulatory statutes?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "What preconditions must be satisfied at the closing time, including regulatory confirmations and officer certifications, to allow the transaction to proceed under the agreement?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what are the primary characteristics and limitations of the license that Zynga grants to WPT, such as its exclusivity, assignability, royalty requirements, and geographic scope?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What is the vendor's only responsibility regarding safety\u2011related fixes for a system during the ten years after installation, and what does that responsibility cover and not cover?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Which part of the addendum requires Diplomat Ambassador Eyewear Group to adhere to state labor and safety laws and to cooperate with Kathy Ireland\u2019s related requests?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Sections 17.01 and 17.02 of the AIRSOPURE franchise agreement, what indemnification obligations does each party owe, and what exceptions apply?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "If a material breach is limited to specific categories of licensed intellectual property, what termination rights does the non\u2011breaching party have under the agreement?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What circumstances allow Capital Resources to cancel the agreement and what notice must be given to the Association when such cancellation occurs?",
+        "category": "termination",
+        "rank": 1
+      }
+    ]
+  },
+  "Hybrid+Reranker": {
+    "overall": {
+      "recall@10": 0.9451,
+      "mrr": 0.799,
+      "ndcg@10": 0.836,
+      "n": 91
+    },
+    "by_category": {
+      "termination": {
+        "recall@10": 0.85,
+        "mrr": 0.7417,
+        "ndcg@10": 0.7696,
+        "n": 20
+      },
+      "liability": {
+        "recall@10": 0.9524,
+        "mrr": 0.8254,
+        "ndcg@10": 0.8571,
+        "n": 21
+      },
+      "payment": {
+        "recall@10": 1.0,
+        "mrr": 0.9444,
+        "ndcg@10": 0.959,
+        "n": 9
+      },
+      "confidentiality": {
+        "recall@10": 0.875,
+        "mrr": 0.7292,
+        "ndcg@10": 0.7664,
+        "n": 8
+      },
+      "governing law": {
+        "recall@10": 1.0,
+        "mrr": 0.747,
+        "ndcg@10": 0.8099,
+        "n": 14
+      },
+      "intellectual property": {
+        "recall@10": 1.0,
+        "mrr": 0.8289,
+        "ndcg@10": 0.8729,
+        "n": 19
+      }
+    },
+    "per_query": [
+      {
+        "query": "If MD\u202fAnderson ends the agreement during the limited unilateral termination window, what steps must the parties take regarding any ongoing clinical study and the settlement of accrued study\u2011related payments?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What specific financial changes listed in the agreement would trigger a termination event or default?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "In the agreement between Aimmune and Xencor, what does Section 10.5 state about representations and warranties, and how does Section 10.4 specifically caveat Xencor's ability to guarantee the Product's safety or Regulatory Approval?",
+        "category": "liability",
+        "rank": 3
+      },
+      {
+        "query": "How does the agreement ensure that any compensation paid to MD Anderson complies with anti\u2011kickback statutes and reflects fair market value rather than being tied to referrals or volume of business?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "What specific documents \u2014 including the Conversion Application, Holding Company Application, and Registration Statement \u2014 must the Company and Association deliver to Capital Resources and its counsel, and how many conformed copies are required?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement between Airspan and Distributor, what is the Initial Term length, and how much advance written notice does Section 13.2 require before either party may terminate early for material breach?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Which provision specifies that all disputes under this agreement will be governed by Texas law and that the parties waive any personal jurisdiction objections?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Which provision in the contract details the pre\u2011closing requirements, such as the absence of material adverse changes and the continued accuracy of representations and warranties, that the parties must meet before the transaction can close?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What information does the contract provide regarding the Company's and Bank's legal qualifications and authorized share capital across different jurisdictions?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Under the Newegg-Allied agreement, what specific notice and cure period applies before a breach automatically terminates the agreement under Section 14.3, and how does this differ from the immediate-termination provisions in Sections 14.1 and 14.5?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances can a distributor revoke a purchase order and what steps are required for any amendments to become enforceable between the parties?",
+        "category": "termination",
+        "rank": 2
+      },
+      {
+        "query": "Which clause obligates Airspan to cover Distributor\u2019s legal expenses and protect them from third\u2011party allegations that using the equipment or software violates patents or copyrights?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under the Adaptimmune\u2013MD Anderson agreement, per Section 7.7, which party has the first right to prepare, file, and prosecute patents for jointly-owned Inventions?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under [party names], which specific sections survive termination per the survival clause, and for what post-termination period?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "Which part of the contract defines the scope of Arizona Assigned IP, including copyrights, internet domain names, know-how, patents, and trademarks?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "Under the joint venture agreement, which party is responsible for covering the operational expenses, insurance costs, and audit fees associated with the venture?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under the Newegg agreement, Section 13.1 lists exceptions to what counts as Confidential Information \u2014 what are those exceptions?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Can you identify the portion of the document that verifies the continued validity of all governmental and regulatory approvals required for the merger and related corporate activities, and confirms that no objections or challenges to those approvals are currently pending?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "What limitations does the distributor face regarding the use of Airspan's brand symbols and corporate names?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What actions is Arizona prohibited from performing with respect to the company's licensed intellectual property, and what additional conduct must it avoid assisting others in doing?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section (b), which parties does the Agent indemnify against prospectus misstatement losses, per Section 15 of the Securities Act or Section 20 of the Exchange Act?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 9(a), what specific circumstances allow the Agent to terminate this agreement before Closing Time?",
+        "category": "termination",
+        "rank": 2
+      },
+      {
+        "query": "Which provision of the agreement grants the successful party in a legal action to obtain reimbursement for their attorney's expenses and also specifies the method for delivering notices and payments?",
+        "category": "liability",
+        "rank": 3
+      },
+      {
+        "query": "What obligations does Allied have to ensure proper display and attribution of Newegg's trademarks in all promotional materials?",
+        "category": "intellectual property",
+        "rank": 4
+      },
+      {
+        "query": "Under Section 13.4 of the Arizona/Armstrong Flooring agreement, what equitable relief is available without posting a bond or security?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What is the maximum total amount Capital Resources can be required to pay or contribute under the indemnification clause?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under this agreement, which four specific market/economic conditions \u2014 Nasdaq trading halts, banking moratorium, war declaration, or material price decline \u2014 allow the underwriter to terminate before the Closing Date?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances is the Company obligated to end its commitments and require the ValueAct Designee to resign from board service?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Within what timeframe must Adaptimmune provide written notice to MD Anderson after an invention is disclosed in order to retain the right to negotiate a license, and what is the effect if that notice is not given within that period?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under what conditions does the agreement end on its own without either side taking any additional steps?",
+        "category": "termination",
+        "rank": null
+      },
+      {
+        "query": "Under Section 3.3 of the Adaptimmune\u2013MD Anderson agreement, what restrictions apply to the receiving party's use, transfer, and destruction of Proprietary Materials?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "What certificate must the Agent receive at the Closing Date from the Company\u2019s officers to confirm the Prospectus\u2019s accuracy and that no material events have occurred since its authorization?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 1.4(a) of this agreement, what IP rights does Provider irrevocably assign to Recipient for inventions made while working on the Services?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What steps is Diplomat required to take regarding inventory and the sale of covered products after the license ends, and what conditions must be met for such sales?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 13.5, which state's law governs the Arizona/Buyer Entities agreement, and which Delaware court has designated jurisdiction?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What approval must the provider obtain before replacing the personnel listed in Exhibit A who are responsible for delivering the services?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What obligations must the distributor fulfill when a third\u2011party claim arises concerning the product, and what actions may Accuray take if the distributor\u2019s rights to use the product are enjoined?",
+        "category": "liability",
+        "rank": 3
+      },
+      {
+        "query": "Which section of the contract mandates that any disputes between the parties be resolved in California federal courts?",
+        "category": "governing law",
+        "rank": 3
+      },
+      {
+        "query": "If the Provider engages subcontractors to perform the Services, what responsibilities does the Provider retain concerning performance, quality, and financial obligations under the agreement?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what obligations must Adaptimmune fulfill and what rights does MD Anderson obtain when Adaptimmune chooses not to file or maintain a patent for a jointly-owned invention?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "What steps must the franchisee take immediately after the agreement ends, such as stopping operations, discontinuing use of the brand, canceling directory listings, and settling any outstanding payments and damages?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, which sections explain that Ono may only sublicense certain licenses to its affiliates and that it is prohibited from modifying Binimetinib or Encorafenib?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 5.1 of the Adaptimmune\u2013MD Anderson agreement, how is 'Confidential Information' defined for purposes of a Study, and in what forms may it be disclosed?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "What specific corporate actions are prohibited for ValueAct Group and its affiliates under the agreement?",
+        "category": "governing law",
+        "rank": 8
+      },
+      {
+        "query": "Under what provision does the agreement designate Texas law as the governing law and address the state's sovereign immunity?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "How does the agreement define the payment deadline for undisputed invoice amounts and the procedure the distributor must follow if they wish to dispute an invoice?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "What steps is the distributor required to take to acknowledge Airspan's ownership of its trademarks and to respect Airspan's exclusive copyright rights in promotional materials?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 9 of the Associate-Company agreement, which state's laws govern this agreement?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "If neither party provides the required notice before the current term expires, what effect does this have on the agreement's duration?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Which portion of the agreement details the parties' responsibilities for providing documentation and the manufacturer's obligations to adhere to local laws and international manufacturing standards?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What responsibilities does MD Anderson have to maintain and supply records of payments made under the agreement so that Adaptimmune can satisfy its reporting obligations under the federal law concerning physician payments?",
+        "category": "payment",
+        "rank": 2
+      },
+      {
+        "query": "Under subsection (f) of the Capital Resources agreement, what pre-closing conditions regarding material adverse change and OTS/FDIC compliance must be satisfied?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What must the Agent obtain from the auditors at signing to confirm that the auditors are independent and that the financial statements comply with securities regulations?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "What responsibilities does the ValueAct Designee have to keep the company's internal discussions and non-public information confidential while serving on the board?",
+        "category": "confidentiality",
+        "rank": 2
+      },
+      {
+        "query": "What responsibilities does the Blockchain Administrator have concerning the Fund\u2019s records when the agreement is terminated?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what advertising and sponsorship rights does the sponsor receive across digital, print, and social media platforms, and how does the club retain discretion over the placement and presentation of those rights?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 14 of the Capital Resources agreement, who is entitled to rely on notices and requests given on behalf of the Company or the Association?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Which section describes the process for selecting and using brand names for Binimetinib-containing products, including fallback options and the method for resolving any disagreements?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "What responsibilities does the establishment have to address issues found during Apollo\u2019s or a regulatory authority\u2019s inspection of the manufacturing facilities?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "When may a party disclose the other party\u2019s confidential information, and what notice and limitations apply to such disclosure?",
+        "category": "confidentiality",
+        "rank": null
+      },
+      {
+        "query": "What legal confirmations are required to ensure that the Company's actions in completing the transaction will not conflict with any existing agreements or violate applicable federal laws and regulations?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "Under the Diplomat\u2013KI, Inc. agreement, what approval process applies to product samples, and what is the effect of KI's failure to reject within 15 days?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "In the agreement, under what scenario is 2TheMart permitted to grant sublicenses to its business partners for its content?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What method does the clinical supply agreement use to calculate the amount Ono will pay for materials procured by Array?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 6.5 of the Detto-PivX agreement, when is PivX excused from liability for delay or failure to perform under force majeure?",
+        "category": "liability",
+        "rank": 3
+      },
+      {
+        "query": "Under the agreement, what labeling obligations and approval procedures is Diplomat required to follow for its products and promotional materials?",
+        "category": "intellectual property",
+        "rank": 2
+      },
+      {
+        "query": "Under Section 19 of the AIRSOPURE agreement, what must the parties attempt before bringing a dispute to court?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What steps is Array required to take when it decides not to file or continue a patent in the Ono Territory?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "When must the monthly franchise fees be paid, and how is interest calculated for any overdue payments?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "In the agreement, which article outlines the procedure for dealing with provisions that a court deems unenforceable?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "Under the Airspan-Distributor agreement, what do the parties represent and warrant regarding payments to government officials or private customers?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Which provision describes Detto's obligations to protect Qwik-Fix Pro and its documentation, and includes an indemnity clause for PivX in case Detto breaches those security duties?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Section 12.12 of the Accuray-Distributor agreement, which specific sections survive termination or expiration of the agreement?",
+        "category": "termination",
+        "rank": 3
+      },
+      {
+        "query": "Which document sets out the terms under which one Delaware corporation grants another the right to use the ARMX trademark?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "Under what circumstances can a party be excused from performing its obligations because of events beyond its control?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "In the agreement, which section describes the business plan and franchise methods as trade secrets and outlines the potential damage if they are disclosed?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what are the five standard exceptions (a)-(e) to the definition of Confidential Information?",
+        "category": "confidentiality",
+        "rank": 3
+      },
+      {
+        "query": "Under Section 13.1 of the Adaptimmune\u2013MD Anderson agreement, what consent is required before using the other party's name or logo in advertising materials?",
+        "category": "confidentiality",
+        "rank": 1
+      },
+      {
+        "query": "Which provision of the agreement states that Delaware law will exclusively govern its validity, interpretation, and effect?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "How is the fee for each transaction inquiry calculated, under what circumstances may it be adjusted, and what reporting and audit obligations does i\u2011Escrow have in relation to those fees?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what compensation does the Agent receive for its services, including the management fee payment schedule and any additional fees tied to the offering?",
+        "category": "payment",
+        "rank": 1
+      },
+      {
+        "query": "Which provision of the agreement limits the company's guarantees and outlines ongoing compliance with the conversion rules and the regulatory body's requirements?",
+        "category": "liability",
+        "rank": null
+      },
+      {
+        "query": "Under the agreement, what responsibilities must the Company fulfill concerning the qualification, registration, and periodic reporting of the Shares in each jurisdiction where they are offered?",
+        "category": "governing law",
+        "rank": 2
+      },
+      {
+        "query": "What clause confirms that the agreement is legally binding and outlines any limitations on its enforceability under bankruptcy, insolvency, or other regulatory statutes?",
+        "category": "governing law",
+        "rank": 1
+      },
+      {
+        "query": "What preconditions must be satisfied at the closing time, including regulatory confirmations and officer certifications, to allow the transaction to proceed under the agreement?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "Under the agreement, what are the primary characteristics and limitations of the license that Zynga grants to WPT, such as its exclusivity, assignability, royalty requirements, and geographic scope?",
+        "category": "intellectual property",
+        "rank": 1
+      },
+      {
+        "query": "What is the vendor's only responsibility regarding safety\u2011related fixes for a system during the ten years after installation, and what does that responsibility cover and not cover?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Which part of the addendum requires Diplomat Ambassador Eyewear Group to adhere to state labor and safety laws and to cooperate with Kathy Ireland\u2019s related requests?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "Under Sections 17.01 and 17.02 of the AIRSOPURE franchise agreement, what indemnification obligations does each party owe, and what exceptions apply?",
+        "category": "liability",
+        "rank": 1
+      },
+      {
+        "query": "If a material breach is limited to specific categories of licensed intellectual property, what termination rights does the non\u2011breaching party have under the agreement?",
+        "category": "termination",
+        "rank": 1
+      },
+      {
+        "query": "What circumstances allow Capital Resources to cancel the agreement and what notice must be given to the Association when such cancellation occurs?",
+        "category": "termination",
+        "rank": 2
+      }
+    ]
+  }
+}

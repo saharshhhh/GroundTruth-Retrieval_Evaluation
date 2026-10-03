@@ -1,0 +1,912 @@
+[
+  {
+    "query": "If MD\u202fAnderson ends the agreement during the limited unilateral termination window, what steps must the parties take regarding any ongoing clinical study and the settlement of accrued study\u2011related payments?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 55500,
+      "end": 57000
+    },
+    "category": "termination",
+    "source_passage_preview": "erson any time within the Limited Unilateral Termination Period even if the ten day notice period extends beyond the Limited Unilateral Termination Pe"
+  },
+  {
+    "query": "What specific financial changes listed in the agreement would trigger a termination event or default?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 90000,
+      "end": 91500
+    },
+    "category": "termination",
+    "source_passage_preview": "to the date hereof,  there has been (1) an increase of greater than  $500,000 in the long term debt of the  Association or (2) an increase of $100,000"
+  },
+  {
+    "query": "In the agreement between Aimmune and Xencor, what does Section 10.5 state about representations and warranties, and how does Section 10.4 specifically caveat Xencor's ability to guarantee the Product's safety or Regulatory Approval?",
+    "gold": {
+      "doc_id": "file13",
+      "start": 103500,
+      "end": 105000
+    },
+    "category": "liability",
+    "source_passage_preview": "une has conducted due diligence in connection with the Development and Manufacture of the Product in the Licensed Field.\n\n10.4 Disclaimer. Aimmune und"
+  },
+  {
+    "query": "How does the agreement ensure that any compensation paid to MD Anderson complies with anti\u2011kickback statutes and reflects fair market value rather than being tied to referrals or volume of business?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 7500,
+      "end": 9000
+    },
+    "category": "payment",
+    "source_passage_preview": "e information to Adaptimmune necessary for Adaptimmune to comply with any disclosure requirements to the extent required by and in accordance with 21 "
+  },
+  {
+    "query": "What specific documents \u2014 including the Conversion Application, Holding Company Application, and Registration Statement \u2014 must the Company and Association deliver to Capital Resources and its counsel, and how many conformed copies are required?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 45000,
+      "end": 46500
+    },
+    "category": "confidentiality",
+    "source_passage_preview": "nably  object or which shall be reasonably disapproved by its counsel.\n\n                  (e) The Company and the  Association  will  deliver to Capit"
+  },
+  {
+    "query": "Under the agreement between Airspan and Distributor, what is the Initial Term length, and how much advance written notice does Section 13.2 require before either party may terminate early for material breach?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 42000,
+      "end": 43500
+    },
+    "category": "termination",
+    "source_passage_preview": "at Airspan shall use its best endeavors to avoid or remove such causes of non-performance and both parties shall proceed to perform with dispatch when"
+  },
+  {
+    "query": "Which provision specifies that all disputes under this agreement will be governed by Texas law and that the parties waive any personal jurisdiction objections?",
+    "gold": {
+      "doc_id": "file15",
+      "start": 61500,
+      "end": 63000
+    },
+    "category": "governing law",
+    "source_passage_preview": "ITH RESPECT TO ANY ACTION (1) FOR MONEYS OWED, (2) FOR INJUNCTIVE OR OTHER EXTRAORDINARY RELIEF OR (3) INVOLVING POSSESSION OR DISPOSITION OF; OR OFFE"
+  },
+  {
+    "query": "Which provision in the contract details the pre\u2011closing requirements, such as the absence of material adverse changes and the continued accuracy of representations and warranties, that the parties must meet before the transaction can close?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 100500,
+      "end": 102000
+    },
+    "category": "liability",
+    "source_passage_preview": " to the  Prospectus  which has not been so set  forth,                including  specifically,  but without  limitation,  any  material               "
+  },
+  {
+    "query": "What information does the contract provide regarding the Company's and Bank's legal qualifications and authorized share capital across different jurisdictions?",
+    "gold": {
+      "doc_id": "file18",
+      "start": 88500,
+      "end": 90000
+    },
+    "category": "governing law",
+    "source_passage_preview": "he transactions contemplated hereby.\n\n26\n\n\n\n\n\n(iii) Each of the Company, the MHCs and the Bank is duly qualified as a domestic or foreign corporation "
+  },
+  {
+    "query": "Under the Newegg-Allied agreement, what specific notice and cure period applies before a breach automatically terminates the agreement under Section 14.3, and how does this differ from the immediate-termination provisions in Sections 14.1 and 14.5?",
+    "gold": {
+      "doc_id": "file20",
+      "start": 25500,
+      "end": 27000
+    },
+    "category": "termination",
+    "source_passage_preview": "ll be deemed a material breach of this Agreement and Newegg shall have the right to terminate this Agreement immediately if Allied fails to cure the b"
+  },
+  {
+    "query": "Under what circumstances can a distributor revoke a purchase order and what steps are required for any amendments to become enforceable between the parties?",
+    "gold": {
+      "doc_id": "file4",
+      "start": 9000,
+      "end": 10500
+    },
+    "category": "termination",
+    "source_passage_preview": "s based on a Quote provided by Accuray, Distributor will issue a purchase order,  which shall include specific references to the quote number of such "
+  },
+  {
+    "query": "Which clause obligates Airspan to cover Distributor\u2019s legal expenses and protect them from third\u2011party allegations that using the equipment or software violates patents or copyrights?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 54000,
+      "end": 55500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "ree that the Airspan Parties shall have no liability for any of the types of damages referred to at Section 16.1 in connection with or arising from th"
+  },
+  {
+    "query": "Under the Adaptimmune\u2013MD Anderson agreement, per Section 7.7, which party has the first right to prepare, file, and prosecute patents for jointly-owned Inventions?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 48000,
+      "end": 49500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "y grants MD Anderson a perpetual, irrevocable, no-cost, non-exclusive, royalty-free license to any Adaptimmune Invention or Other Invention in which A"
+  },
+  {
+    "query": "Under [party names], which specific sections survive termination per the survival clause, and for what post-termination period?",
+    "gold": {
+      "doc_id": "file13",
+      "start": 133500,
+      "end": 135000
+    },
+    "category": "termination",
+    "source_passage_preview": "of the Product, will reasonably consider providing customer lists (e.g., purchasers), where permitted under Applicable Law and under applicable agreem"
+  },
+  {
+    "query": "Which part of the contract defines the scope of Arizona Assigned IP, including copyrights, internet domain names, know-how, patents, and trademarks?",
+    "gold": {
+      "doc_id": "file29",
+      "start": 3000,
+      "end": 4500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "edged, the Parties hereby agree as follows:\n\nSource: ARMSTRONG FLOORING, INC., 8-K, 1/7/2019\n\n\n\n\n\n1. DEFINITIONS AND INTERPRETATION 1.1 Certain Defini"
+  },
+  {
+    "query": "Under the joint venture agreement, which party is responsible for covering the operational expenses, insurance costs, and audit fees associated with the venture?",
+    "gold": {
+      "doc_id": "file3",
+      "start": 4500,
+      "end": 6000
+    },
+    "category": "payment",
+    "source_passage_preview": "t of all the Joint Venture activities and affairs      conducted pursuant to the terms of this Agreement. All direct costs and      expenses, which sh"
+  },
+  {
+    "query": "Under the Newegg agreement, Section 13.1 lists exceptions to what counts as Confidential Information \u2014 what are those exceptions?",
+    "gold": {
+      "doc_id": "file20",
+      "start": 21000,
+      "end": 22500
+    },
+    "category": "confidentiality",
+    "source_passage_preview": "OR THE PRODUCTS, WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, EVEN IF THE PARTY HAS BEEN ADVISED, KNOWS OR SHOULD KNOW, OR IS OTHERWISE A"
+  },
+  {
+    "query": "Can you identify the portion of the document that verifies the continued validity of all governmental and regulatory approvals required for the merger and related corporate activities, and confirms that no objections or challenges to those approvals are currently pending?",
+    "gold": {
+      "doc_id": "file18",
+      "start": 91500,
+      "end": 93000
+    },
+    "category": "governing law",
+    "source_passage_preview": "ribed in the Registration Statement and Prospectus, and is duly qualified as a foreign corporation to transact business and is in good standing in eac"
+  },
+  {
+    "query": "What limitations does the distributor face regarding the use of Airspan's brand symbols and corporate names?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 30000,
+      "end": 31500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " time, whether during the term of this Agreement or after its expiration or termination, adopt, use, or register without Airspan's prior, written cons"
+  },
+  {
+    "query": "What actions is Arizona prohibited from performing with respect to the company's licensed intellectual property, and what additional conduct must it avoid assisting others in doing?",
+    "gold": {
+      "doc_id": "file29",
+      "start": 21000,
+      "end": 22500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": ". Arizona acknowledges and agrees that (a) the Company and its Affiliates own the Company Licensed IP, (b) neither Arizona, nor its Affiliates or its "
+  },
+  {
+    "query": "Under Section (b), which parties does the Agent indemnify against prospectus misstatement losses, per Section 15 of the Securities Act or Section 20 of the Exchange Act?",
+    "gold": {
+      "doc_id": "file18",
+      "start": 117000,
+      "end": 118500
+    },
+    "category": "liability",
+    "source_passage_preview": "ospectus (or any amendment or supplement thereto) or any Issuer-Represented Free Writing Prospectus, or the omission or alleged omission therefrom of "
+  },
+  {
+    "query": "Under Section 9(a), what specific circumstances allow the Agent to terminate this agreement before Closing Time?",
+    "gold": {
+      "doc_id": "file18",
+      "start": 123000,
+      "end": 124500
+    },
+    "category": "termination",
+    "source_passage_preview": "nt is entitled and actually paid pursuant to this Agreement.\n\nSECTION 8. REPRESENTATIONS, WARRANTIES AND AGREEMENTS TO SURVIVE DELIVERY. All represent"
+  },
+  {
+    "query": "Which provision of the agreement grants the successful party in a legal action to obtain reimbursement for their attorney's expenses and also specifies the method for delivering notices and payments?",
+    "gold": {
+      "doc_id": "file22",
+      "start": 36000,
+      "end": 37500
+    },
+    "category": "liability",
+    "source_passage_preview": " (d) Attorneys' Fees. The prevailing party in any proceeding       brought to enforce any provision of this Agreement shall be entitled to       recov"
+  },
+  {
+    "query": "What obligations does Allied have to ensure proper display and attribution of Newegg's trademarks in all promotional materials?",
+    "gold": {
+      "doc_id": "file20",
+      "start": 10500,
+      "end": 12000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "ks or reflect unfavorably upon Newegg or Newegg Products. 6.5 In exercise of the rights granted in Section 6.1, Allied shall always use the Newegg Mar"
+  },
+  {
+    "query": "Under Section 13.4 of the Arizona/Armstrong Flooring agreement, what equitable relief is available without posting a bond or security?",
+    "gold": {
+      "doc_id": "file29",
+      "start": 31500,
+      "end": 33000
+    },
+    "category": "liability",
+    "source_passage_preview": "d Richard Hoffman Email: notices@americanindustrial.com richard@americanindustrial.com\n\nwith a copy to:\n\nBaker Botts L.L.P. 1299 Pennsylvania Avenue, "
+  },
+  {
+    "query": "What is the maximum total amount Capital Resources can be required to pay or contribute under the indemnification clause?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 111000,
+      "end": 112500
+    },
+    "category": "liability",
+    "source_passage_preview": "a  material  fact  relates  to information  supplied by the Company  and/or the  Association on the one hand or Capital  Resources on the other and th"
+  },
+  {
+    "query": "Under this agreement, which four specific market/economic conditions \u2014 Nasdaq trading halts, banking moratorium, war declaration, or material price decline \u2014 allow the underwriter to terminate before the Closing Date?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 114000,
+      "end": 115500
+    },
+    "category": "termination",
+    "source_passage_preview": "ounter  market,  or quotations  halted generally on the                Nasdaq, or minimum or maximum prices for trading have been fixed,              "
+  },
+  {
+    "query": "Under what circumstances is the Company obligated to end its commitments and require the ValueAct Designee to resign from board service?",
+    "gold": {
+      "doc_id": "file21",
+      "start": 4500,
+      "end": 6000
+    },
+    "category": "termination",
+    "source_passage_preview": " the ValueAct Group and the Company (acting through the Board) shall work together in good faith to fill such vacancy or replace such nominee with an "
+  },
+  {
+    "query": "Within what timeframe must Adaptimmune provide written notice to MD Anderson after an invention is disclosed in order to retain the right to negotiate a license, and what is the effect if that notice is not given within that period?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 46500,
+      "end": 48000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " patient care purposes), royalty-bearing license to any Invention in which MD Anderson has an ownership interest, provided that Adaptimmune Limited pa"
+  },
+  {
+    "query": "Under what conditions does the agreement end on its own without either side taking any additional steps?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 43500,
+      "end": 45000
+    },
+    "category": "termination",
+    "source_passage_preview": "----------------------------\n\nPage 16\n\nparty shall have given the other party written notice of the failure, and the other party has not cured the fai"
+  },
+  {
+    "query": "Under Section 3.3 of the Adaptimmune\u2013MD Anderson agreement, what restrictions apply to the receiving party's use, transfer, and destruction of Proprietary Materials?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 27000,
+      "end": 28500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "ietary Materials for any purpose other than exercising its rights or performing its obligations hereunder; (b) it will use such Proprietary Materials "
+  },
+  {
+    "query": "What certificate must the Agent receive at the Closing Date from the Company\u2019s officers to confirm the Prospectus\u2019s accuracy and that no material events have occurred since its authorization?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 99000,
+      "end": 100500
+    },
+    "category": "liability",
+    "source_passage_preview": "matters                as the Agent may reasonably  require.  Such opinion may rely upon                the opinions of counsel to the Company, the MH"
+  },
+  {
+    "query": "Under Section 1.4(a) of this agreement, what IP rights does Provider irrevocably assign to Recipient for inventions made while working on the Services?",
+    "gold": {
+      "doc_id": "file2",
+      "start": 4500,
+      "end": 6000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "hardware that is used in connection with the Services with substantially the same degree of care, skill and diligence with which Provider maintains, o"
+  },
+  {
+    "query": "What steps is Diplomat required to take regarding inventory and the sale of covered products after the license ends, and what conditions must be met for such sales?",
+    "gold": {
+      "doc_id": "file22",
+      "start": 28500,
+      "end": 30000
+    },
+    "category": "termination",
+    "source_passage_preview": "ore the expiration of this license and, in the event of its termination, ten (10) days after receipt of notice of termination or the happening of the "
+  },
+  {
+    "query": "Under Section 13.5, which state's law governs the Arizona/Buyer Entities agreement, and which Delaware court has designated jurisdiction?",
+    "gold": {
+      "doc_id": "file29",
+      "start": 33000,
+      "end": 34500
+    },
+    "category": "governing law",
+    "source_passage_preview": "or by law or equity upon such Party, and the exercise by a Party of any one remedy will not preclude the exercise of any other remedy. Arizona, on the"
+  },
+  {
+    "query": "What approval must the provider obtain before replacing the personnel listed in Exhibit A who are responsible for delivering the services?",
+    "gold": {
+      "doc_id": "file2",
+      "start": 1500,
+      "end": 3000
+    },
+    "category": "liability",
+    "source_passage_preview": "o any reasonable request by Recipient for access to any additional services and resources that are necessary for the operation of the Recipient and wh"
+  },
+  {
+    "query": "What obligations must the distributor fulfill when a third\u2011party claim arises concerning the product, and what actions may Accuray take if the distributor\u2019s rights to use the product are enjoined?",
+    "gold": {
+      "doc_id": "file4",
+      "start": 57000,
+      "end": 58500
+    },
+    "category": "liability",
+    "source_passage_preview": "this Agreement is unsafe when  used according to Accuray's written Specifications for its intended use, and will pay any costs and damages made in set"
+  },
+  {
+    "query": "Which section of the contract mandates that any disputes between the parties be resolved in California federal courts?",
+    "gold": {
+      "doc_id": "file13",
+      "start": 150000,
+      "end": 151500
+    },
+    "category": "governing law",
+    "source_passage_preview": "rn the interpretation of, and any dispute regarding, the terms of this Agreement.\n\n15.13.2 Equitable Relief. Notwithstanding anything in this Agreemen"
+  },
+  {
+    "query": "If the Provider engages subcontractors to perform the Services, what responsibilities does the Provider retain concerning performance, quality, and financial obligations under the agreement?",
+    "gold": {
+      "doc_id": "file2",
+      "start": 3000,
+      "end": 4500
+    },
+    "category": "liability",
+    "source_passage_preview": "Provider Representatives shall be dedicated to solely providing the Services to Recipient and shall not provide any such services or resources to Prov"
+  },
+  {
+    "query": "Under the agreement, what obligations must Adaptimmune fulfill and what rights does MD Anderson obtain when Adaptimmune chooses not to file or maintain a patent for a jointly-owned invention?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 49500,
+      "end": 51000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "ations in good faith (provided such recommendations are provided on a timely basis) If Adaptimmune elects not to file in the United States or not to m"
+  },
+  {
+    "query": "What steps must the franchisee take immediately after the agreement ends, such as stopping operations, discontinuing use of the brand, canceling directory listings, and settling any outstanding payments and damages?",
+    "gold": {
+      "doc_id": "file15",
+      "start": 46500,
+      "end": 48000
+    },
+    "category": "termination",
+    "source_passage_preview": "ption, to purchase Your interest in the tangible assets of the Franchise at their fair market value.\n\n15. OBLIGATIONS UPON TERMINATION\n\n15.01. Upon te"
+  },
+  {
+    "query": "Under the agreement, which sections explain that Ono may only sublicense certain licenses to its affiliates and that it is prohibited from modifying Binimetinib or Encorafenib?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 43500,
+      "end": 45000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "izing such Products in accordance with the rights and license granted to Ono under Sections 2.1(a) and 2.1(c). The licenses granted under this Subsect"
+  },
+  {
+    "query": "Under Section 5.1 of the Adaptimmune\u2013MD Anderson agreement, how is 'Confidential Information' defined for purposes of a Study, and in what forms may it be disclosed?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 28500,
+      "end": 30000
+    },
+    "category": "confidentiality",
+    "source_passage_preview": " samples to third parties to the extent permitted by the Consent and HIPAA Authorization the IRB, Applicable Laws, and the Protocol. Adamptimmune, and"
+  },
+  {
+    "query": "What specific corporate actions are prohibited for ValueAct Group and its affiliates under the agreement?",
+    "gold": {
+      "doc_id": "file21",
+      "start": 12000,
+      "end": 13500
+    },
+    "category": "governing law",
+    "source_passage_preview": "or a ValueAct Affiliate of any securities of the Company into any tender or exchange offer or vote by the ValueAct Group or a ValueAct Affiliate of an"
+  },
+  {
+    "query": "Under what provision does the agreement designate Texas law as the governing law and address the state's sovereign immunity?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 78000,
+      "end": 79500
+    },
+    "category": "governing law",
+    "source_passage_preview": "boratory prototypes, and other commodities, information and items (individually and collectively, \"Technology and Items\"), including without limitatio"
+  },
+  {
+    "query": "How does the agreement define the payment deadline for undisputed invoice amounts and the procedure the distributor must follow if they wish to dispute an invoice?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 19500,
+      "end": 21000
+    },
+    "category": "payment",
+    "source_passage_preview": " notice to Distributor.\n\n7.  PAYMENT TERMS.\n\n\n\n\n\n7.1  Airspan will issue an invoice (the \"Invoice\") to Distributor in      accordance with the payment"
+  },
+  {
+    "query": "What steps is the distributor required to take to acknowledge Airspan's ownership of its trademarks and to respect Airspan's exclusive copyright rights in promotional materials?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 27000,
+      "end": 28500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " trade names, logos and designations which Airspan may at any time have adopted, used, or registered in the United States of America and in the Territ"
+  },
+  {
+    "query": "Under Section 9 of the Associate-Company agreement, which state's laws govern this agreement?",
+    "gold": {
+      "doc_id": "file15",
+      "start": 70500,
+      "end": 72000
+    },
+    "category": "governing law",
+    "source_passage_preview": "ive Business by any direct inducement or otherwise.\n\n5. REMEDIES. Associate hereby acknowledges and agrees that in the event of any violations of this"
+  },
+  {
+    "query": "If neither party provides the required notice before the current term expires, what effect does this have on the agreement's duration?",
+    "gold": {
+      "doc_id": "file1",
+      "start": 15000,
+      "end": 16500
+    },
+    "category": "termination",
+    "source_passage_preview": "t forth herein.\n\n8. TERM AND TERMINATION.\n\n8.1 TERM.  The term of this Agreement shall continue for one (1) year following the Launch Date, unless ear"
+  },
+  {
+    "query": "Which portion of the agreement details the parties' responsibilities for providing documentation and the manufacturer's obligations to adhere to local laws and international manufacturing standards?",
+    "gold": {
+      "doc_id": "file12",
+      "start": 1500,
+      "end": 3000
+    },
+    "category": "liability",
+    "source_passage_preview": " reason other than breach of this agreement. ODM Supply Agreement 2 Organic Preparations INC. & Agape ATP International Holding Limited\n\nSource: AGAPE"
+  },
+  {
+    "query": "What responsibilities does MD Anderson have to maintain and supply records of payments made under the agreement so that Adaptimmune can satisfy its reporting obligations under the federal law concerning physician payments?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 6000,
+      "end": 7500
+    },
+    "category": "payment",
+    "source_passage_preview": "ment, it will be allocated to studies, research or tests agreed by the JSC, and such Alliance Funding will be payable in accordance with agreed milest"
+  },
+  {
+    "query": "Under subsection (f) of the Capital Resources agreement, what pre-closing conditions regarding material adverse change and OTS/FDIC compliance must be satisfied?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 85500,
+      "end": 87000
+    },
+    "category": "termination",
+    "source_passage_preview": " review of the final action of the OTS approving the Plan.\n\n                  (f) Prior to and at the Closing  Date:  (i) in the  reasonable opinion o"
+  },
+  {
+    "query": "What must the Agent obtain from the auditors at signing to confirm that the auditors are independent and that the financial statements comply with securities regulations?",
+    "gold": {
+      "doc_id": "file18",
+      "start": 108000,
+      "end": 109500
+    },
+    "category": "liability",
+    "source_passage_preview": "cial statements and other financial information included in the Registration Statement and the Prospectus fairly present the financial condition and r"
+  },
+  {
+    "query": "What responsibilities does the ValueAct Designee have to keep the company's internal discussions and non-public information confidential while serving on the board?",
+    "gold": {
+      "doc_id": "file21",
+      "start": 3000,
+      "end": 4500
+    },
+    "category": "confidentiality",
+    "source_passage_preview": "e Company, the New York Stock Exchange and the Securities and Exchange Commission (\"SEC\") and applicable provisions of the Securities Exchange Act of "
+  },
+  {
+    "query": "What responsibilities does the Blockchain Administrator have concerning the Fund\u2019s records when the agreement is terminated?",
+    "gold": {
+      "doc_id": "file26",
+      "start": 4500,
+      "end": 6000
+    },
+    "category": "termination",
+    "source_passage_preview": "actor and shall, unless otherwise expressly provided or authorized herein, have no authority to act for or represent the Fund in any way or otherwise "
+  },
+  {
+    "query": "Under the agreement, what advertising and sponsorship rights does the sponsor receive across digital, print, and social media platforms, and how does the club retain discretion over the placement and presentation of those rights?",
+    "gold": {
+      "doc_id": "file27",
+      "start": 12000,
+      "end": 13500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "lay of a Sponsor Mark on one (1) banner advertisement in respect of the Sponsor Business that rotates throughout www.jaguars.com (approximately 300x25"
+  },
+  {
+    "query": "Under Section 14 of the Capital Resources agreement, who is entitled to rely on notices and requests given on behalf of the Company or the Association?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 117000,
+      "end": 118500
+    },
+    "category": "liability",
+    "source_passage_preview": " copy to Serchuk & Zelermyer, LLP, 81 Main Street, White Plains, NY 10601, Attention: Clifford S.  Weber, Esq.) and, if sent to the  Company  and the "
+  },
+  {
+    "query": "Which section describes the process for selecting and using brand names for Binimetinib-containing products, including fallback options and the method for resolving any disagreements?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 186000,
+      "end": 187500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "TRADEMARKS\n\n12.1 Display.\n\n(a)  All packaging materials, labels and Marketing Materials for the Products shall display the Product Trademarks in katak"
+  },
+  {
+    "query": "What responsibilities does the establishment have to address issues found during Apollo\u2019s or a regulatory authority\u2019s inspection of the manufacturing facilities?",
+    "gold": {
+      "doc_id": "file25",
+      "start": 24000,
+      "end": 25500
+    },
+    "category": "liability",
+    "source_passage_preview": "egulatory Authority or any government agency or regulatory body with respect to the manufacture and testing of the Product.\n\n7.7 Inspection of Manufac"
+  },
+  {
+    "query": "When may a party disclose the other party\u2019s confidential information, and what notice and limitations apply to such disclosure?",
+    "gold": {
+      "doc_id": "file13",
+      "start": 115500,
+      "end": 117000
+    },
+    "category": "confidentiality",
+    "source_passage_preview": " Party hereunder if, in the reasonable opinion of the receiving Party's legal counsel, such disclosure is necessary to comply with the terms and condi"
+  },
+  {
+    "query": "What legal confirmations are required to ensure that the Company's actions in completing the transaction will not conflict with any existing agreements or violate applicable federal laws and regulations?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 90000,
+      "end": 91500
+    },
+    "category": "governing law",
+    "source_passage_preview": "e  obligations  herein  set  forth  and the                consummation  of the  transactions  contemplated  herein will not                conflict  "
+  },
+  {
+    "query": "Under the Diplomat\u2013KI, Inc. agreement, what approval process applies to product samples, and what is the effect of KI's failure to reject within 15 days?",
+    "gold": {
+      "doc_id": "file22",
+      "start": 16500,
+      "end": 18000
+    },
+    "category": "liability",
+    "source_passage_preview": "d and distributed in accordance with all applicable Federal, State and local laws, (b) that the policy of sale, distribution, and/or exploitation by D"
+  },
+  {
+    "query": "In the agreement, under what scenario is 2TheMart permitted to grant sublicenses to its business partners for its content?",
+    "gold": {
+      "doc_id": "file1",
+      "start": 12000,
+      "end": 13500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "ither party shall use the Domain Name for any purpose except as expressly provided herein or attempt to register the Domain Name, and the parties will"
+  },
+  {
+    "query": "What method does the clinical supply agreement use to calculate the amount Ono will pay for materials procured by Array?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 148500,
+      "end": 150000
+    },
+    "category": "payment",
+    "source_passage_preview": ", clinical studies, including, but not limited to analytical test method development and/or validation, for regulatory submissions or Commercializatio"
+  },
+  {
+    "query": "Under Section 6.5 of the Detto-PivX agreement, when is PivX excused from liability for delay or failure to perform under force majeure?",
+    "gold": {
+      "doc_id": "file7",
+      "start": 22500,
+      "end": 24000
+    },
+    "category": "liability",
+    "source_passage_preview": ". This Agreement, including Exhibit A, constitutes the final, complete, and exclusive agreement between the parties with respect to the subject matter"
+  },
+  {
+    "query": "Under the agreement, what labeling obligations and approval procedures is Diplomat required to follow for its products and promotional materials?",
+    "gold": {
+      "doc_id": "file22",
+      "start": 18000,
+      "end": 19500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "sed in connection with such products.\n\n                                       6\n\n            10. Labeling.\n\n                  (a) Diplomat agrees that"
+  },
+  {
+    "query": "Under Section 19 of the AIRSOPURE agreement, what must the parties attempt before bringing a dispute to court?",
+    "gold": {
+      "doc_id": "file15",
+      "start": 58500,
+      "end": 60000
+    },
+    "category": "governing law",
+    "source_passage_preview": "e date on which this Agreement was executed. You further acknowledge that You have received the Offering Circular, as required by the Federal Trade Co"
+  },
+  {
+    "query": "What steps is Array required to take when it decides not to file or continue a patent in the Ono Territory?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 175500,
+      "end": 177000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "h enough lead time where reasonably practicable, to enable Ono to review and comment on such application or action; provided that Array shall have no "
+  },
+  {
+    "query": "When must the monthly franchise fees be paid, and how is interest calculated for any overdue payments?",
+    "gold": {
+      "doc_id": "file15",
+      "start": 7500,
+      "end": 9000
+    },
+    "category": "payment",
+    "source_passage_preview": " described in Section 10 hereof. This fee will be due by the 7th of the month for the preceding month.\n\nE. \"Gross sales\" as used in this Section 3.01 "
+  },
+  {
+    "query": "In the agreement, which article outlines the procedure for dealing with provisions that a court deems unenforceable?",
+    "gold": {
+      "doc_id": "file20",
+      "start": 31500,
+      "end": 33000
+    },
+    "category": "governing law",
+    "source_passage_preview": "f any other right, power or privilege. 15.7 Severability. If any provision of this Agreement is found by a court of competent jurisdiction to be inval"
+  },
+  {
+    "query": "Under the Airspan-Distributor agreement, what do the parties represent and warrant regarding payments to government officials or private customers?",
+    "gold": {
+      "doc_id": "file14",
+      "start": 63000,
+      "end": 64500
+    },
+    "category": "payment",
+    "source_passage_preview": "ulations applicable to the parties; or (b) the parties' representations as set forth herein, this Agreement will be null and void from its inception. "
+  },
+  {
+    "query": "Which provision describes Detto's obligations to protect Qwik-Fix Pro and its documentation, and includes an indemnity clause for PivX in case Detto breaches those security duties?",
+    "gold": {
+      "doc_id": "file7",
+      "start": 4500,
+      "end": 6000
+    },
+    "category": "liability",
+    "source_passage_preview": "er support for Qwik-Fix Pro that it resells as governed by the terms set forth in Exhibit A.\n\n2.4 COMPLIANCE WITH APPLICABLE LAWS. Detto shall comply "
+  },
+  {
+    "query": "Under Section 12.12 of the Accuray-Distributor agreement, which specific sections survive termination or expiration of the agreement?",
+    "gold": {
+      "doc_id": "file4",
+      "start": 67500,
+      "end": 69000
+    },
+    "category": "termination",
+    "source_passage_preview": " earlier of confirmed receipt or the fifth  business day following the date of mailing if delivered by registered or certified mail, return receipt re"
+  },
+  {
+    "query": "Which document sets out the terms under which one Delaware corporation grants another the right to use the ARMX trademark?",
+    "gold": {
+      "doc_id": "file28",
+      "start": 0,
+      "end": 1500
+    },
+    "category": "intellectual property",
+    "source_passage_preview": "Exhibit 2.7 FORM OF TRADEMARK LICENSE AGREEMENT THIS TRADEMARK LICENSE AGREEMENT (this \"Agreement\"), made and entered into as of the [ ] day of [ ], 2"
+  },
+  {
+    "query": "Under what circumstances can a party be excused from performing its obligations because of events beyond its control?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 256500,
+      "end": 258000
+    },
+    "category": "termination",
+    "source_passage_preview": "as amended.\n\nreason of any cause beyond the reasonable control of such Party (including, fire, flood, earthquake, tsunami, embargo, power shortage or "
+  },
+  {
+    "query": "In the agreement, which section describes the business plan and franchise methods as trade secrets and outlines the potential damage if they are disclosed?",
+    "gold": {
+      "doc_id": "file15",
+      "start": 67500,
+      "end": 69000
+    },
+    "category": "confidentiality",
+    "source_passage_preview": " to Company;\n\n\n\n\n\nD. Associate is or will become involved with Company, or a franchise of Company, in the capacity of an officer, partner, director or"
+  },
+  {
+    "query": "Under the agreement, what are the five standard exceptions (a)-(e) to the definition of Confidential Information?",
+    "gold": {
+      "doc_id": "file30",
+      "start": 157500,
+      "end": 159000
+    },
+    "category": "confidentiality",
+    "source_passage_preview": "ty shall not provide or otherwise disclose to any Third Party, and shall not use for any purpose, any information furnished to it by the other Party h"
+  },
+  {
+    "query": "Under Section 13.1 of the Adaptimmune\u2013MD Anderson agreement, what consent is required before using the other party's name or logo in advertising materials?",
+    "gold": {
+      "doc_id": "file6",
+      "start": 67500,
+      "end": 69000
+    },
+    "category": "confidentiality",
+    "source_passage_preview": "d in the International Committee of Medical Journal Editors (\"ICMJE\") Uniform Requirements for Manuscripts.   12.5 The \"sponsor\" of a Study, within th"
+  },
+  {
+    "query": "Which provision of the agreement states that Delaware law will exclusively govern its validity, interpretation, and effect?",
+    "gold": {
+      "doc_id": "file21",
+      "start": 24000,
+      "end": 25500
+    },
+    "category": "governing law",
+    "source_passage_preview": "ees it will not take any action, directly or indirectly, in opposition to another party seeking relief. Each of the parties hereto agrees to waive any"
+  },
+  {
+    "query": "How is the fee for each transaction inquiry calculated, under what circumstances may it be adjusted, and what reporting and audit obligations does i\u2011Escrow have in relation to those fees?",
+    "gold": {
+      "doc_id": "file1",
+      "start": 7500,
+      "end": 9000
+    },
+    "category": "payment",
+    "source_passage_preview": "a per Transaction Inquiry amount calculated by multiplying 0.025% by the amount of the average Transaction from all Customers in the preceding quarter"
+  },
+  {
+    "query": "Under the agreement, what compensation does the Agent receive for its services, including the management fee payment schedule and any additional fees tied to the offering?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 9000,
+      "end": 10500
+    },
+    "category": "payment",
+    "source_passage_preview": "he Shares sold in the Offering, in accordance with the terms herein, is called the \"Closing Date.\"\n\n         The Agent shall  receive the  following  "
+  },
+  {
+    "query": "Which provision of the agreement limits the company's guarantees and outlines ongoing compliance with the conversion rules and the regulatory body's requirements?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 15000,
+      "end": 16500
+    },
+    "category": "liability",
+    "source_passage_preview": "cessary in order to make the statements  therein,  in the light of the  circumstances  under  which they were made, not misleading; provided, however,"
+  },
+  {
+    "query": "Under the agreement, what responsibilities must the Company fulfill concerning the qualification, registration, and periodic reporting of the Shares in each jurisdiction where they are offered?",
+    "gold": {
+      "doc_id": "file16",
+      "start": 61500,
+      "end": 63000
+    },
+    "category": "governing law",
+    "source_passage_preview": "ith the Agent, and furnish to whomever                the Agent may  direct,  such  information  as may be  required to                qualify  or  re"
+  },
+  {
+    "query": "What clause confirms that the agreement is legally binding and outlines any limitations on its enforceability under bankruptcy, insolvency, or other regulatory statutes?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 66000,
+      "end": 67500
+    },
+    "category": "governing law",
+    "source_passage_preview": "              (vii) The  execution  and delivery of this  Agreement  and the consummation of the transactions  contemplated hereby have been duly and "
+  },
+  {
+    "query": "What preconditions must be satisfied at the closing time, including regulatory confirmations and officer certifications, to allow the transaction to proceed under the agreement?",
+    "gold": {
+      "doc_id": "file18",
+      "start": 106500,
+      "end": 108000
+    },
+    "category": "termination",
+    "source_passage_preview": "part to be performed or satisfied at or prior to Closing Time, (vi) no stop order suspending the effectiveness of the Registration Statement has been "
+  },
+  {
+    "query": "Under the agreement, what are the primary characteristics and limitations of the license that Zynga grants to WPT, such as its exclusivity, assignability, royalty requirements, and geographic scope?",
+    "gold": {
+      "doc_id": "file19",
+      "start": 7500,
+      "end": 9000
+    },
+    "category": "intellectual property",
+    "source_passage_preview": " indicated on Exhibit A, each party will provide the other party with electronic files containing the Licensed Property of such party to be used under"
+  },
+  {
+    "query": "What is the vendor's only responsibility regarding safety\u2011related fixes for a system during the ten years after installation, and what does that responsibility cover and not cover?",
+    "gold": {
+      "doc_id": "file4",
+      "start": 28500,
+      "end": 30000
+    },
+    "category": "liability",
+    "source_passage_preview": "ardware configuration that is required in order to enable the existing software and/or hardware configuration to perform to  the existing functional s"
+  },
+  {
+    "query": "Which part of the addendum requires Diplomat Ambassador Eyewear Group to adhere to state labor and safety laws and to cooperate with Kathy Ireland\u2019s related requests?",
+    "gold": {
+      "doc_id": "file22",
+      "start": 37500,
+      "end": 39000
+    },
+    "category": "liability",
+    "source_passage_preview": "INTERS CO.                                                                       By /s/ Jason Winters                                     ------------"
+  },
+  {
+    "query": "Under Sections 17.01 and 17.02 of the AIRSOPURE franchise agreement, what indemnification obligations does each party owe, and what exceptions apply?",
+    "gold": {
+      "doc_id": "file15",
+      "start": 52500,
+      "end": 54000
+    },
+    "category": "liability",
+    "source_passage_preview": "erein would result in serious, immediate and irreparable injury to AIRSOPURE for which no adequate remedy at law will be available, and You consent, i"
+  },
+  {
+    "query": "If a material breach is limited to specific categories of licensed intellectual property, what termination rights does the non\u2011breaching party have under the agreement?",
+    "gold": {
+      "doc_id": "file29",
+      "start": 27000,
+      "end": 28500
+    },
+    "category": "termination",
+    "source_passage_preview": "wever, that if the material breach of this Agreement by the breaching Party is limited to the Licensed Copyrights, Licensed Know-How, the Arizona Lice"
+  },
+  {
+    "query": "What circumstances allow Capital Resources to cancel the agreement and what notice must be given to the Association when such cancellation occurs?",
+    "gold": {
+      "doc_id": "file11",
+      "start": 115500,
+      "end": 117000
+    },
+    "category": "termination",
+    "source_passage_preview": " interest as provided in the Offering Prospectus,  and no party to this  Agreement  shall have any  obligation to the other  hereunder, except  for  p"
+  }
+]
